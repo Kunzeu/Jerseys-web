@@ -1,0 +1,371 @@
+/* Estilos generales */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 20px;
+}
+
+.logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+header .logo img {
+    max-height: 50px; /* Ajusta la altura máxima según necesites */
+    width: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Evita espacios extra alrededor de la imagen */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav li {
+    margin-left: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    /* Elimina position: sticky y bottom: 0 */
+    width: 100%;
+}
+
+#hero {
+    background-image: url('../assets/img/fondo-hero.jpg'); /* Reemplaza con tu imagen */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero-content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#catalogo-pagina {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.filtro-contenedor {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+    align-items: center;
+    width: 90%;
+    justify-content: flex-start;
+}
+
+.filtro-contenedor label {
+    font-weight: bold;
+}
+
+.filtro-contenedor select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.catalogo-contenedor {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.producto-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: auto; /* Ajusta según el contenido */
+}
+
+.producto-card img {
+    max-width: 100%;
+    height: 150px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.producto-card h3 {
+    margin-top: auto;
+    font-size: 1.2em;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.producto-card .precio {
+    font-weight: bold;
+    color: #007bff;
+    margin-top: auto;
+}
+
+.pagination-contenedor {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.pagination-boton {
+    background-color: #f8f9fa;
+    color: #333;
+    border: 1px solid #ddd;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pagination-boton.activo {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.pagination-boton:hover {
+    background-color: #e2e6ea;
+}
+
+/* Estilos para la página del carrito */
+#carrito-pagina {
+    padding: 20px;
+    text-align: center;
+}
+
+#carrito-items {
+    margin-bottom: 20px;
+}
+
+.carrito-item {
+    border: 1px solid #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.carrito-item img {
+    max-width: 80px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.carrito-item .item-info {
+    flex-grow: 1;
+    text-align: left;
+}
+
+.carrito-item .cantidad-control {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.cantidad-control button {
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.cantidad-control span {
+    font-weight: bold;
+    width: 20px;
+    text-align: center;
+}
+
+.carrito-item .item-actions button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#carrito-total {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.finalizar-compra {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    border: none;
+}
+
+.finalizar-compra:hover {
+    background-color: #1e7e34;
+}
+
+/* Estilos para la página de contacto */
+#contacto-pagina {
+    padding: 20px;
+    text-align: center;
+}
+
+#formulario-contacto {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#formulario-contacto div {
+    margin-bottom: 15px;
+}
+
+#formulario-contacto label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#formulario-contacto input[type="text"],
+#formulario-contacto input[type="email"],
+#formulario-contacto textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#formulario-contacto button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#formulario-contacto button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para la sección de inicio */
+#inicio {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#inicio h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+#inicio p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 30px
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    nav li {
+        margin: 10px 0;
+    }
+    #catalogo-pagina {
+        align-items: stretch;
+    }
+    .filtro-contenedor {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .filtro-contenedor label,
+    .filtro-contenedor select {
+        margin-bottom: 10px;
+    }
+    .catalogo-contenedor {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+    .carrito-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .carrito-item img {
+        margin-right: 0;
+        margin-bottom: 10px;
+        max-width: 100%;
+    }
+    .carrito-item .item-info {
+        margin-bottom: 10px;
+    }
+    .carrito-item .item-actions {
+        margin-top: 10px;
+    }
+}

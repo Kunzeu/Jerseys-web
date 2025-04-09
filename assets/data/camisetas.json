@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "nombre": "Camiseta Local Bayer Munich 2024-2025",
+    "precio": "120000",
+    "imagen": "assets/img/camisetas/Bayern-Munchen2.jpg",
+    "descripcion": "La camiseta oficial de local del Bayer Munich para la temporada 2024-2025.",
+    "equipo": "Bayer Munich"
+  },
+  {
+    "id": "2",
+    "nombre": "Camiseta Visitante Bayer Munich 2024-2025",
+    "precio": "120000",
+    "imagen": "assets/img/camisetas/Bayern-Munchen.jpg",
+    "descripcion": "La camiseta oficial de visitante del Bayer Munich para la temporada 2024-2025.",
+    "equipo": "Bayer Munich"
+  },
+  {
+    "id": "3",
+    "nombre": "Camiseta Visitante Arsenal 2024-2025",
+    "precio": "120000",
+    "imagen": "assets/img/camisetas/Arsenal.jpg",
+    "descripcion": "La camiseta oficial de Local de Arsenal para la temporada 2024-2025.",
+    "equipo": "Arsenal"
+  },
+  {
+    "id": "4",
+    "nombre": "Camiseta Local Milan 2024-2025",
+    "precio": "120000",
+    "imagen": "assets/img/camisetas/AC-Milan.jpg",
+    "descripcion": "La camiseta oficial de local del Ac Milan para la temporada 2024-2025.",
+    "equipo": "AC Milan"
+  }
+]

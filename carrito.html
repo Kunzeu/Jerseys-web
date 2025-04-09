@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Tienda de Camisetas de Fútbol - Carrito</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="/">
+                <img src="assets/img/logo.png" alt="Logo de Tu Marca">
+            </a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="catalogo.html">Catálogo</a></li>
+                <li><a href="carrito.html">Carrito (<span id="carrito-count">0</span>)</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="carrito-pagina">
+            <h2>Carrito de Compras</h2>
+            <div id="carrito-items">
+                <p>Tu carrito está vacío.</p>
+            </div>
+            <div id="carrito-total">
+                <strong>Total:</strong> <span id="total-precio">0 COP</span>
+            </div>
+            <button class="button finalizar-compra">Finalizar Compra</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Tu Tienda de Camisetas de Fútbol</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

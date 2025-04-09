@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Tienda de Camisetas de Fútbol - Catálogo</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="/">
+                <img src="assets/img/logo.png" alt="Logo de Tu Marca">
+            </a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="catalogo.html">Catálogo</a></li>
+                <li><a href="carrito.html">Carrito (<span id="carrito-count">0</span>)</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="catalogo-pagina">
+            <h2>Catálogo de Camisetas</h2>
+            <div class="filtro-contenedor">
+                <label for="filtro-equipo">Equipo:</label>
+                <select id="filtro-equipo">
+                    <option value="">Todos</option>
+                    <option value="Bayer Munich">Bayer Munich</option>
+                    <option value="PSG">PSG</option>
+                    <option value="Arsenal">Arsenal</option>
+                    <option value="AC Milan">AC Milan</option>
+                    <option value="Argentina">Argentina</option>
+                    <option value="Liverpool">Liverpool</option>
+                    <option value="Chelsea">Chelsea</option>
+                    <option value="Manchester United">Manchester United</option>
+                    <option value="Tottenham Hotspur">Tottenham Hotspur</option>
+                    <option value="Juventus">Juventus</option>
+                    <option value="Borussia Dortmund">Borussia Dortmund</option>
+                    <option value="Atlético de Madrid">Atlético de Madrid</option>
+                </select>
+
+                <label for="filtro-precio">Precio:</label>
+                <select id="filtro-precio">
+                    <option value="">Todos</option>
+                    <option value="menor-50">Menos de 50.000 COP</option>
+                    <option value="50-100">Entre 50.000 y 100.000 COP</option>
+                    <option value="mayor-100">Más de 100.000 COP</option>
+                </select>
+            </div>
+
+            <div class="catalogo-contenedor" id="catalogo-productos">
+                </div>
+
+            <div class="pagination-contenedor" id="pagination">
+                </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Tu Tienda de Camisetas de Fútbol</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
