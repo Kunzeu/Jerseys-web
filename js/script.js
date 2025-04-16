@@ -4,14 +4,25 @@ document.addEventListener('DOMContentLoaded', () => {
     const carritoCountSpan = document.getElementById('carrito-count');
     const filtroEquipo = document.getElementById('filtro-equipo');
     const filtroPrecio = document.getElementById('filtro-precio');
+    const filtroTalla = document.getElementById('filtro-talla'); // Cambiado de filtroTipo a filtroTalla
+    const filtroAcabado = document.getElementById('filtro-acabado'); // Nuevo filtro para galleta o bordado
     const carritoItemsContainer = document.getElementById('carrito-items');
     const totalPrecioSpan = document.getElementById('total-precio');
     const finalizarCompraBtn = document.querySelector('.finalizar-compra');
+    const menuToggle = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('nav');
 
-    const productosPorPagina = 6;
+    const productosPorPagina = 12;
     let currentPage = 1;
     let allProductos = [];
     let carrito = localStorage.getItem('carrito') ? JSON.parse(localStorage.getItem('carrito')) : [];
+
+    // --- MENÚ HAMBURGUESA ---
+    if (menuToggle && nav) {
+        menuToggle.addEventListener('click', () => {
+            nav.classList.toggle('active');
+        });
+    }
 
     // Función para formatear el precio a COP
     function formatPrecioCOP(precio) {
@@ -27,6 +38,20 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderProductos(productos) {
         if (productosContainer) {
             productosContainer.innerHTML = '';
+
+            if (productos.length === 0) {
+                // Mostrar mensaje cuando no hay productos que coincidan con los filtros
+                const noProductosDiv = document.createElement('div');
+                noProductosDiv.classList.add('no-productos-mensaje');
+                noProductosDiv.innerHTML = `
+                    <p>No se encontraron productos que coincidan con tu búsqueda.</p>
+                    <p class="mensaje-contacto">¿No encuentras la camiseta que te gusta? Envíanos un mensaje para saber si la tenemos disponible.</p>
+                    <a href="https://wa.me/573015044228" class="button contacto-btn" target="_blank">Contactar por WhatsApp</a>
+                `;
+                productosContainer.appendChild(noProductosDiv);
+                return;
+            }
+
             productos.forEach(producto => {
                 const productoCard = document.createElement('div');
                 productoCard.classList.add('producto-card');
@@ -38,6 +63,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
                 productosContainer.appendChild(productoCard);
             });
+
+            // Añadir el mensaje de contacto después de los productos
+            const mensajeContactoDiv = document.createElement('div');
+            mensajeContactoDiv.classList.add('mensaje-contacto-container');
+            mensajeContactoDiv.innerHTML = `
+                <p class="mensaje-contacto">¿No encuentras la camiseta que te gusta? Envíanos un mensaje para saber si la tenemos disponible.</p>
+                <a href="https://wa.me/573015044228" class="button contacto-btn" target="_blank">Contactar por WhatsApp</a>
+            `;
+            productosContainer.appendChild(mensajeContactoDiv);
 
             // Añadir event listeners a los botones de "Agregar al Carrito"
             const botonesAgregar = document.querySelectorAll('.agregar-carrito');
@@ -89,25 +123,37 @@ document.addEventListener('DOMContentLoaded', () => {
         if (productosContainer) {
             const equipoSeleccionado = filtroEquipo.value;
             const precioSeleccionado = filtroPrecio.value;
+            const tallaSeleccionada = filtroTalla ? filtroTalla.value : '';
+            const acabadoSeleccionado = filtroAcabado ? filtroAcabado.value : '';
 
             const productosFiltrados = allProductos.filter(producto => {
                 let equipoCoincide = true;
                 let precioCoincide = true;
+                let tallaCoincide = true;
+                let acabadoCoincide = true;
 
                 if (equipoSeleccionado && producto.equipo !== equipoSeleccionado) {
                     equipoCoincide = false;
                 }
 
                 const precioNumerico = parseFloat(producto.precio.replace('.', ''));
-                if (precioSeleccionado === 'menor-50' && precioNumerico >= 50000) {
-                    precioCoincide = false;
-                } else if (precioSeleccionado === '50-100' && (precioNumerico < 50000 || precioNumerico > 100000)) {
+                if (precioSeleccionado === '90-100' && (precioNumerico < 90000 || precioNumerico > 100000)) {
                     precioCoincide = false;
                 } else if (precioSeleccionado === 'mayor-100' && precioNumerico <= 100000) {
                     precioCoincide = false;
                 }
 
-                return equipoCoincide && precioCoincide;
+                // Filtro por talla (adulto o niño)
+                if (tallaSeleccionada && (!producto.talla || producto.talla.toLowerCase() !== tallaSeleccionada.toLowerCase())) {
+                    tallaCoincide = false;
+                }
+
+                // Filtro por acabado (galleta o bordado)
+                if (acabadoSeleccionado && (!producto.acabado || producto.acabado.toLowerCase() !== acabadoSeleccionado.toLowerCase())) {
+                    acabadoCoincide = false;
+                }
+
+                return equipoCoincide && precioCoincide && tallaCoincide && acabadoCoincide;
             });
 
             currentPage = 1; // Resetear la página al filtrar
@@ -160,6 +206,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             <div class="item-info">
                                 <h3>${producto.nombre}</h3>
                                 <p>Precio: ${formatPrecioCOP(parseFloat(producto.precio.replace('.', '')))}</p>
+                                <p>Talla: ${producto.talla || 'No especificada'}</p>
+                                <p>Acabado: ${producto.acabado || 'No especificada'}</p>
                                 <div class="cantidad-control">
                                     <button class="button disminuir-cantidad" data-id="${producto.id}">-</button>
                                     <span data-id="${producto.id}">${item.cantidad}</span>
@@ -237,7 +285,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (producto) {
                         const precioUnitario = parseFloat(producto.precio.replace('.', ''));
                         const precioTotalItem = precioUnitario * item.cantidad;
-                        mensaje += `- ${producto.nombre} (Cantidad: ${item.cantidad}) - ${formatPrecioCOP(precioUnitario)} c/u - ${formatPrecioCOP(precioTotalItem)} total\n`;
+                        let tallaInfo = producto.talla ? ` (Talla: ${producto.talla})` : '';
+                        let acabadoInfo = producto.acabado ? ` (Acabado: ${producto.acabado})` : '';
+                        mensaje += `- ${producto.nombre}${tallaInfo}${acabadoInfo} (Cantidad: ${item.cantidad}) - ${formatPrecioCOP(precioUnitario)} c/u - ${formatPrecioCOP(precioTotalItem)} total\n`;
                         totalPedido += precioTotalItem;
                     }
                 });
@@ -278,14 +328,19 @@ document.addEventListener('DOMContentLoaded', () => {
             actualizarContadorCarrito();
             mostrarCarritoEnPagina(); // Mostrar el carrito si estamos en carrito.html
 
-            // Asegurar que el event listener del filtro de equipo esté adjuntado después de cargar los productos
+            // Asegurar que los event listeners de los filtros estén adjuntados después de cargar los productos
             if (filtroEquipo) {
                 filtroEquipo.addEventListener('change', filterProductos);
             }
             if (filtroPrecio) {
                 filtroPrecio.addEventListener('change', filterProductos);
             }
-
+            if (filtroTalla) {
+                filtroTalla.addEventListener('change', filterProductos);
+            }
+            if (filtroAcabado) {
+                filtroAcabado.addEventListener('change', filterProductos);
+            }
         })
         .catch(error => console.error('Error al cargar los productos:', error));
 });

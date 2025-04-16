@@ -5,21 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tu Tienda de Camisetas de Fútbol - Inicio</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 </head>
 <body>
     <header>
-        <div class="logo">
-            <a href="/">
-                <img src="assets/img/logo.png" alt="Logo de Tu Marca">
-            </a>
+        <div class="header-container">
+            <div class="logo">
+                <a href="/">
+                    <img src="assets/img/logos/Logo.jpg" alt="Logo de Tu Marca">
+                </a>
+            </div>
+            <button class="hamburger" aria-label="Toggle menu">☰</button>
+            <nav>
+                <ul>
+                    <li><a href="index.html"><i class="fas fa-home"></i> Inicio</a></li>
+                    <li><a href="catalogo.html"><i class="fas fa-tshirt"></i> Catálogo</a></li>
+                    <li><a href="carrito.html"><i class="fas fa-shopping-cart"></i> Carrito (<span id="carrito-count">0</span>)</a></li>
+                </ul>
+            </nav>
         </div>
-        <nav>
-            <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="catalogo.html">Catálogo</a></li>
-                <li><a href="carrito.html">Carrito (<span id="carrito-count">0</span>)</a></li>
-            </ul>
-        </nav>
     </header>
 
     <main>
@@ -27,7 +32,7 @@
             <div class="hero-content">
                 <h1>Encuentra la Camiseta de tus Sueños</h1>
                 <p>La mejor selección de camisetas de fútbol de todo el mundo.</p>
-                <a href="catalogo.html" class="button">Ver Catálogo</a>
+                <a href="catalogo.html" class="button">Ver Catálogo <i class="fas fa-arrow-right"></i></a>
             </div>
         </section>
 
@@ -38,9 +43,13 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Tu Tienda de Camisetas de Fútbol</p>
+        <p>© 2025 Tu Tienda de Camisetas de Fútbol</p>
     </footer>
 
-    <script src="js/script.js"></script>
+    <script>
+        document.querySelector('.hamburger').addEventListener('click', () => {
+            document.querySelector('nav').classList.toggle('active');
+        });
+    </script>
 </body>
 </html>

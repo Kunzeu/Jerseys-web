@@ -1,34 +1,155 @@
 [
   {
     "id": "1",
-    "nombre": "Camiseta Local Bayer Munich 2024-2025",
-    "precio": "120000",
-    "imagen": "assets/img/camisetas/Bayern-Munchen2.jpg",
-    "descripcion": "La camiseta oficial de local del Bayer Munich para la temporada 2024-2025.",
-    "equipo": "Bayer Munich"
+    "nombre": "Camiseta Local Bayern München 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Bayern München/BayernMünchenLocal24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Adulto",
+    "acabado": ""
   },
   {
     "id": "2",
-    "nombre": "Camiseta Visitante Bayer Munich 2024-2025",
-    "precio": "120000",
-    "imagen": "assets/img/camisetas/Bayern-Munchen.jpg",
-    "descripcion": "La camiseta oficial de visitante del Bayer Munich para la temporada 2024-2025.",
-    "equipo": "Bayer Munich"
+    "nombre": "Camiseta Vistante Bayern München 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Bayern München/BayernMünchenAway24-25.jpg",
+    "descripcion": "La camiseta oficial de visitante del Bayer München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Adulto",
+    "acabado": ""
+
   },
   {
     "id": "3",
-    "nombre": "Camiseta Visitante Arsenal 2024-2025",
-    "precio": "120000",
-    "imagen": "assets/img/camisetas/Arsenal.jpg",
-    "descripcion": "La camiseta oficial de Local de Arsenal para la temporada 2024-2025.",
-    "equipo": "Arsenal"
+    "nombre": "Camiseta Tercera Bayern München 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Bayern München/BayernMünchenThird24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Adulto",
+    "acabado": ""
+
   },
   {
     "id": "4",
-    "nombre": "Camiseta Local Milan 2024-2025",
-    "precio": "120000",
-    "imagen": "assets/img/camisetas/AC-Milan.jpg",
-    "descripcion": "La camiseta oficial de local del Ac Milan para la temporada 2024-2025.",
-    "equipo": "AC Milan"
+    "nombre": "Camiseta Local Bayern München 2024-2025 Galleta",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Bayern München/Tipo/Galleta/BayernMünchenGalleta.jpg",
+    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Adulto",
+    "acabado": "Galleta"
+
+  },
+  {
+    "id": "5",
+    "nombre": "Camiseta Local Bayern München 2024-2025 Encauchetado",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Bayern München/Tipo/Encauchetado/BayernMünchenLocalEncauchetado.jpg",
+    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Adulto"
+  },
+  {
+    "id": "6",
+    "nombre": "Camiseta Local Real Madrid 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Local24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Real Madrid para la temporada 2024-2025.",
+    "equipo": "Real Madrid",
+    "talla": "Adulto"
+  },
+  {
+    "id": "7",
+    "nombre": "Camiseta Vistante Real Madrid 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Away24-25.jpg",
+    "descripcion": "La camiseta oficial de Vistante del Real Madrid para la temporada 2024-2025.",
+    "equipo": "Real Madrid",
+    "talla": "Adulto"
+  },
+  {
+    "id": "8",
+    "nombre": "Camiseta Tercera Real Madrid 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Third24-25.jpg",
+    "descripcion": "La camiseta oficial del Real Madrid para la temporada 2024-2025.",
+    "equipo": "Real Madrid",
+    "talla": "Adulto"
+  },
+  {
+    "id": "9",
+    "nombre": "Camiseta Local Real Madrid 2024-2025 Champions",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Local Champions 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Real Madrid para la temporada 2024-2025.",
+    "equipo": "Real Madrid",
+    "talla": "Adulto"
+  },
+  {
+    "id": "10",
+    "nombre": "Camiseta Local FC Barcelona 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Barcelona/Barcelona Local.jpg",
+    "descripcion": "La camiseta oficial de local del FC Barcelona para la temporada 2024-2025.",
+    "equipo": "Barcelona",
+    "talla": "Adulto"
+  },
+  {
+    "id": "11",
+    "nombre": "Camiseta Vistante FC Barcelona 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Barcelona/Barcelona Visitante.jpg",
+    "descripcion": "La camiseta oficial de visitante del FC Barcelona para la temporada 2024-2025.",
+    "equipo": "Barcelona",
+    "talla": "Adulto"
+  },
+  {
+    "id": "12",
+    "nombre": "Camiseta Local Portugal 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Portugal/Portugal Local 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Portugal para la temporada 2024-2025.",
+    "equipo": "Portugal",
+    "talla": "Adulto"
+  },
+  {"id": "13",
+    "nombre": "Camiseta Local Milan Champions 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Milan/Milan Local 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Milan para la temporada 2024-2025.",
+    "equipo": "AC Milan",
+    "talla": "Adulto"
+  },
+  {
+    "id": "14",
+    "nombre": "Camiseta Local Juventus Champions 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Juventus/Juventus Local Champions 24-25.jpg",
+    "descripcion": "La camiseta oficial de local de Juventus para la temporada 2024-2025.",
+    "equipo": "Juventus",
+    "talla": "Adulto"
+  },
+  {
+    "id": "15",
+    "nombre": "Camiseta Local Manchester City 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Manchester City/Manchester Local Champions 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Manchester City para la temporada 2024-2025.",
+    "equipo": "Manchester City",
+    "talla": "Adulto"
+  },
+  {
+    "id": "16",
+    "nombre": "Camiseta Local Manchester United 2024-2025 Galleta",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Manchester United/Manchester United Local 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Manchester United para la temporada 2024-2025.",
+    "equipo": "Manchester United",
+    "talla": "Adulto",
+    "acabado": "Galleta"
+
   }
+  
 ]
