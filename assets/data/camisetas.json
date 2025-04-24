@@ -150,6 +150,90 @@
     "talla": "Adulto",
     "acabado": "Galleta"
 
+  },
+  {
+    "id": "17",
+    "nombre": "Camiseta Local Atlético de Madrid 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Atlético de Madrid/Atlético de Madrid Local 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Atlético de Madrid para la temporada 2024-2025.",
+    "equipo": "Atlético de Madrid",
+    "talla": "Adulto",
+    "acabado": "Galleta"
+  },
+  {
+    "id": "18",
+    "nombre": "Camiseta Visitante Rayo Vallecano 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Rayo Vallecano/Rayo Vallecano Visitante 24-25.jpg",
+    "descripcion": "La camiseta oficial de visitante del Rayo Vallecano para la temporada 2024-2025.",
+    "equipo": "Rayo Vallecano",
+    "talla": "Adulto",
+    "acabado": ""
+  },
+  {
+    "id": "19",
+    "nombre": "Camiseta Alternativa Borussia Dortmund 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Borussia Dortmund/Borussia Dortmund Alternativa 24-25.jpg",
+    "descripcion": "La camiseta alternativa del Borussia Dortmund para la temporada 2024-2025.",
+    "equipo": "Borussia Dortmund",
+    "talla": "Adulto",
+    "acabado": ""
+  },
+  {
+    "id": "20",
+    "nombre": "Camiseta Alternativa Tottenham 2020-2021",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Tottenham/Tottenham Alternativa 20-21.jpg",
+    "descripcion": "Camiseta alternativa del Tottenham Hotspur para la temporada 2020-2021, con franjas verticales en tonos azules.",
+    "equipo": "Tottenham Hotspur",
+    "talla": "Adulto",
+    "acabado": ""
+  },
+  {
+    "id": "21",
+    "nombre": "Camiseta Local Tottenham 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Tottenham/Tottenham Local 20-21.jpg",
+    "descripcion": "Camiseta oficial de local del Tottenham Hotspur para la temporada 2020-2021, en blanco con mangas azul marino.",
+    "equipo": "Tottenham Hotspur",
+    "talla": "Adulto",
+    "acabado": ""
+  },
+  {
+    "id": "22",
+    "nombre": "Camiseta Local Tottenham 2021-2022",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Tottenham/Tottenham Local 21-22.jpg",
+    "descripcion": "Camiseta oficial de local del Tottenham para la temporada 2021-2022, diseño limpio en blanco con detalles oscuros.",
+    "equipo": "Tottenham Hotspur",
+    "talla": "Adulto",
+    "acabado": ""
+  },
+  {
+    "id": "23",
+    "nombre": "Camiseta Local Tottenham 2022-2023",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Tottenham/Tottenham Local 22-23.jpg",
+    "descripcion": "Camiseta de local del Tottenham Hotspur temporada 2022-2023, blanco con detalles azul oscuro y cuello redondo.",
+    "equipo": "Tottenham Hotspur",
+    "talla": "Adulto",
+    "acabado": "Galleta"
+  },
+  {
+    "id": "24",
+    "nombre": "Camiseta Tercera Tottenham 2022-2023",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Tottenham/Tottenham Tercera 22-23.jpg",
+    "descripcion": "Camiseta tercera del Tottenham para la temporada 2022-2023, con diseño en azul marino, celeste y amarillo.",
+    "equipo": "Tottenham Hotspur",
+    "talla": "Adulto",
+    "acabado": "Galleta"
   }
+  
+ 
+  
+  
   
 ]
