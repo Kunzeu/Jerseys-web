@@ -203,35 +203,64 @@
   },
   {
     "id": "22",
-    "nombre": "Camiseta Local Tottenham 2021-2022",
+    "nombre": "Camiseta Visitante Chivas 2024-2025",
     "precio": "90000",
-    "imagen": "assets/img/camisetas/Tottenham/Tottenham Local 21-22.jpg",
+    "imagen": "assets/img/camisetas/Chivas/Chivas Visitante 24-25.jpg",
     "descripcion": "Camiseta oficial de local del Tottenham para la temporada 2021-2022, diseño limpio en blanco con detalles oscuros.",
     "equipo": "Tottenham Hotspur",
+    "talla": "Adulto",
+      "acabado": ""
+  },
+  {
+    "id": "23",
+    "nombre": "Camiseta Alternativa Atlético de Madrid 2024-2025",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Atlético de Madrid/Atlético de Madrid Alternativa 24-25.jpg",
+    "descripcion": "La camiseta alternativa del Atlético de Madrid para la temporada 2024-2025.",
+    "equipo": "Atlético de Madrid",
     "talla": "Adulto",
     "acabado": ""
   },
   {
-    "id": "23",
-    "nombre": "Camiseta Local Tottenham 2022-2023",
+    "id": "24",
+    "nombre": "Camiseta Alternativa Real Madrid 2024-2025 ",
     "precio": "90000",
-    "imagen": "assets/img/camisetas/Tottenham/Tottenham Local 22-23.jpg",
-    "descripcion": "Camiseta de local del Tottenham Hotspur temporada 2022-2023, blanco con detalles azul oscuro y cuello redondo.",
-    "equipo": "Tottenham Hotspur",
+    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Alternativa 24-25.jpg",
+    "descripcion": "La camiseta alternativa del Real Madrid para la temporada 2024-2025.",
+    "equipo": "Real Madrid",
     "talla": "Adulto",
-    "acabado": "Galleta"
+    "acabado": ""
   },
   {
-    "id": "24",
-    "nombre": "Camiseta Tercera Tottenham 2022-2023",
+    "id": "25",
+    "nombre": "Camiseta Local Flamengo 2024-2025",
     "precio": "90000",
-    "imagen": "assets/img/camisetas/Tottenham/Tottenham Tercera 22-23.jpg",
-    "descripcion": "Camiseta tercera del Tottenham para la temporada 2022-2023, con diseño en azul marino, celeste y amarillo.",
-    "equipo": "Tottenham Hotspur",
+    "imagen": "assets/img/camisetas/Flamengo/Flamengo Local 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Flamengo para la temporada 2024-2025.",
+    "equipo": "Flamengo",
     "talla": "Adulto",
-    "acabado": "Galleta"
+    "acabado": ""
+  },
+  {
+    "id": "26",
+    "nombre": "Camiseta Local Juventus 2024-2025 Galleta",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Juventus/Juventus Local 24-25.jpg",
+    "descripcion": "La camiseta oficial de local de la Juventus para la temporada 2024-2025.",
+    "equipo": "Juventus",
+    "talla": "Adulto",
+    "acabado": ""
+  },
+  {
+    "id": "27",
+    "nombre": "Camiseta Local Manchester City 2024-2025 Galleta",
+    "precio": "90000",
+    "imagen": "assets/img/camisetas/Manchester City/Manchester City Local 24-25.jpg",
+    "descripcion": "La camiseta oficial de local del Manchester City para la temporada 2024-2025.",
+    "equipo": "Manchester City",
+    "talla": "Adulto",
+    "acabado": ""
   }
-  
  
   
   
