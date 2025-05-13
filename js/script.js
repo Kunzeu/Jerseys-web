@@ -40,7 +40,6 @@ document.addEventListener('DOMContentLoaded', () => {
             productosContainer.innerHTML = '';
 
             if (productos.length === 0) {
-                // Mostrar mensaje cuando no hay productos que coincidan con los filtros
                 const noProductosDiv = document.createElement('div');
                 noProductosDiv.classList.add('no-productos-mensaje');
                 noProductosDiv.innerHTML = `
@@ -64,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 productosContainer.appendChild(productoCard);
             });
 
-            // Añadir el mensaje de contacto después de los productos
+            // Mover el mensaje aquí, después de los productos
             const mensajeContactoDiv = document.createElement('div');
             mensajeContactoDiv.classList.add('mensaje-contacto-container');
             mensajeContactoDiv.innerHTML = `
@@ -89,10 +88,17 @@ document.addEventListener('DOMContentLoaded', () => {
         if (paginationContainer) {
             const totalPages = Math.ceil(totalProductos / productosPorPagina);
             paginationContainer.innerHTML = '';
+    
+            const maxVisiblePages = 3;
+            let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
 
-            for (let i = 1; i <= totalPages; i++) {
-                const pageButton = document.createElement('a');
-                pageButton.href = '#';
+            if (endPage - startPage + 1 < maxVisiblePages) {
+                startPage = Math.max(1, endPage - maxVisiblePages + 1);
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                const pageButton = document.createElement('button');
                 pageButton.classList.add('pagination-boton');
                 pageButton.textContent = i;
                 if (i === currentPage) {
@@ -102,8 +108,37 @@ document.addEventListener('DOMContentLoaded', () => {
                     e.preventDefault();
                     currentPage = i;
                     renderPage(allProductos);
+                    renderPagination(totalProductos);
                 });
                 paginationContainer.appendChild(pageButton);
+            }
+
+            // Add "Previous" button
+            if (startPage > 1) {
+                const prevButton = document.createElement('button');
+                prevButton.classList.add('pagination-boton');
+                prevButton.textContent = '«';
+                prevButton.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    currentPage = Math.max(1, currentPage - 1);
+                    renderPage(allProductos);
+                    renderPagination(totalProductos);
+                });
+                paginationContainer.insertBefore(prevButton, paginationContainer.firstChild);
+            }
+
+            // Add "Next" button
+            if (endPage < totalPages) {
+                const nextButton = document.createElement('button');
+                nextButton.classList.add('pagination-boton');
+                nextButton.textContent = '»';
+                nextButton.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    currentPage = Math.min(totalPages, currentPage + 1);
+                    renderPage(allProductos);
+                    renderPagination(totalProductos);
+                });
+                paginationContainer.appendChild(nextButton);
             }
         }
     }

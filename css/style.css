@@ -203,6 +203,7 @@ footer {
 
 .pagination-contenedor {
     display: flex;
+    justify-content: center;
     gap: 10px;
     margin-top: 20px;
 }
@@ -215,6 +216,7 @@ footer {
     text-decoration: none;
     border-radius: 5px;
     cursor: pointer;
+    transition: background-color 0.3s;
 }
 
 .pagination-boton.activo {

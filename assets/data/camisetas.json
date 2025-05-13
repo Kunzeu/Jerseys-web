@@ -1,268 +1,5682 @@
 [
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "1",
-    "nombre": "Camiseta Local Bayern München 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Bayern München/BayernMünchenLocal24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
-    "equipo": "Bayern München",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta 1fadd29c-03c2-4b1d-80ba-19cf8e5d2ee6",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\1fadd29c-03c2-4b1d-80ba-19cf8e5d2ee6.jpg",
+    "descripcion": "Descripción de 1fadd29c-03c2-4b1d-80ba-19cf8e5d2ee6",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "2",
-    "nombre": "Camiseta Vistante Bayern München 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Bayern München/BayernMünchenAway24-25.jpg",
-    "descripcion": "La camiseta oficial de visitante del Bayer München para la temporada 2024-2025.",
-    "equipo": "Bayern München",
-    "talla": "Adulto",
-    "acabado": ""
-
+    "nombre": "Camiseta 22556e79-a1da-42c3-87ea-cf0a2380306b",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\22556e79-a1da-42c3-87ea-cf0a2380306b.jpg",
+    "descripcion": "Descripción de 22556e79-a1da-42c3-87ea-cf0a2380306b",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "3",
-    "nombre": "Camiseta Tercera Bayern München 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Bayern München/BayernMünchenThird24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
-    "equipo": "Bayern München",
-    "talla": "Adulto",
-    "acabado": ""
-
+    "nombre": "Camiseta 2bb4fc75-d5b4-4242-8b35-3db1e8b6a5d8",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\2bb4fc75-d5b4-4242-8b35-3db1e8b6a5d8.jpg",
+    "descripcion": "Descripción de 2bb4fc75-d5b4-4242-8b35-3db1e8b6a5d8",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "4",
-    "nombre": "Camiseta Local Bayern München 2024-2025 Galleta",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Bayern München/Tipo/Galleta/BayernMünchenGalleta.jpg",
-    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
-    "equipo": "Bayern München",
-    "talla": "Adulto",
-    "acabado": "Galleta"
-
+    "nombre": "Camiseta 3a4aae6d-d041-4922-b48d-d91d27b581cc",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\3a4aae6d-d041-4922-b48d-d91d27b581cc.jpg",
+    "descripcion": "Descripción de 3a4aae6d-d041-4922-b48d-d91d27b581cc",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "5",
-    "nombre": "Camiseta Local Bayern München 2024-2025 Encauchetado",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Bayern München/Tipo/Encauchetado/BayernMünchenLocalEncauchetado.jpg",
-    "descripcion": "La camiseta oficial de local del Bayer München para la temporada 2024-2025.",
-    "equipo": "Bayern München",
-    "talla": "Adulto"
+    "nombre": "Camiseta 3db8ad22-b689-4696-af8c-9056d300be14",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\3db8ad22-b689-4696-af8c-9056d300be14.jpg",
+    "descripcion": "Descripción de 3db8ad22-b689-4696-af8c-9056d300be14",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "6",
-    "nombre": "Camiseta Local Real Madrid 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Local24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Real Madrid para la temporada 2024-2025.",
-    "equipo": "Real Madrid",
-    "talla": "Adulto"
+    "nombre": "Camiseta 4d2fa48b-3d49-4a9c-8231-e2347a79593f",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\4d2fa48b-3d49-4a9c-8231-e2347a79593f.jpg",
+    "descripcion": "Descripción de 4d2fa48b-3d49-4a9c-8231-e2347a79593f",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "7",
-    "nombre": "Camiseta Vistante Real Madrid 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Away24-25.jpg",
-    "descripcion": "La camiseta oficial de Vistante del Real Madrid para la temporada 2024-2025.",
-    "equipo": "Real Madrid",
-    "talla": "Adulto"
+    "nombre": "Camiseta 5e307d69-1e26-4a19-8621-6aae4d124ad9",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\5e307d69-1e26-4a19-8621-6aae4d124ad9.jpg",
+    "descripcion": "Descripción de 5e307d69-1e26-4a19-8621-6aae4d124ad9",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "8",
-    "nombre": "Camiseta Tercera Real Madrid 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Third24-25.jpg",
-    "descripcion": "La camiseta oficial del Real Madrid para la temporada 2024-2025.",
-    "equipo": "Real Madrid",
-    "talla": "Adulto"
+    "nombre": "Camiseta 678a359a-f40b-471d-bcbd-790fde00a158",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\678a359a-f40b-471d-bcbd-790fde00a158.jpg",
+    "descripcion": "Descripción de 678a359a-f40b-471d-bcbd-790fde00a158",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "9",
-    "nombre": "Camiseta Local Real Madrid 2024-2025 Champions",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Local Champions 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Real Madrid para la temporada 2024-2025.",
-    "equipo": "Real Madrid",
-    "talla": "Adulto"
+    "nombre": "Camiseta 6e079e2f-a51f-4a64-af69-45eed05e5de2",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\6e079e2f-a51f-4a64-af69-45eed05e5de2.jpg",
+    "descripcion": "Descripción de 6e079e2f-a51f-4a64-af69-45eed05e5de2",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "10",
-    "nombre": "Camiseta Local FC Barcelona 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Barcelona/Barcelona Local.jpg",
-    "descripcion": "La camiseta oficial de local del FC Barcelona para la temporada 2024-2025.",
-    "equipo": "Barcelona",
-    "talla": "Adulto"
+    "nombre": "Camiseta 72215ea8-7e55-4b72-a680-46edbb8a62c8",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\72215ea8-7e55-4b72-a680-46edbb8a62c8.jpg",
+    "descripcion": "Descripción de 72215ea8-7e55-4b72-a680-46edbb8a62c8",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "11",
-    "nombre": "Camiseta Vistante FC Barcelona 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Barcelona/Barcelona Visitante.jpg",
-    "descripcion": "La camiseta oficial de visitante del FC Barcelona para la temporada 2024-2025.",
-    "equipo": "Barcelona",
-    "talla": "Adulto"
+    "nombre": "Camiseta 75164dbf-4207-4a9c-9104-ef0512bf85ed",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\75164dbf-4207-4a9c-9104-ef0512bf85ed.jpg",
+    "descripcion": "Descripción de 75164dbf-4207-4a9c-9104-ef0512bf85ed",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "12",
-    "nombre": "Camiseta Local Portugal 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Portugal/Portugal Local 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Portugal para la temporada 2024-2025.",
-    "equipo": "Portugal",
-    "talla": "Adulto"
-  },
-  {"id": "13",
-    "nombre": "Camiseta Local Milan Champions 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Milan/Milan Local 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Milan para la temporada 2024-2025.",
-    "equipo": "AC Milan",
-    "talla": "Adulto"
+    "nombre": "Camiseta 7c0fd93a-c622-40be-bd53-ca7ebf186285",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\7c0fd93a-c622-40be-bd53-ca7ebf186285.jpg",
+    "descripcion": "Descripción de 7c0fd93a-c622-40be-bd53-ca7ebf186285",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "13",
+    "nombre": "Camiseta 8cd8e191-fb1b-48cb-8d97-b4468ce6e0fc",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\8cd8e191-fb1b-48cb-8d97-b4468ce6e0fc.jpg",
+    "descripcion": "Descripción de 8cd8e191-fb1b-48cb-8d97-b4468ce6e0fc",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "14",
-    "nombre": "Camiseta Local Juventus Champions 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Juventus/Juventus Local Champions 24-25.jpg",
-    "descripcion": "La camiseta oficial de local de Juventus para la temporada 2024-2025.",
-    "equipo": "Juventus",
-    "talla": "Adulto"
+    "nombre": "Camiseta 98c7b9df-19c9-41bc-80f6-321d321676f5",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\98c7b9df-19c9-41bc-80f6-321d321676f5.jpg",
+    "descripcion": "Descripción de 98c7b9df-19c9-41bc-80f6-321d321676f5",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "15",
-    "nombre": "Camiseta Local Manchester City 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Manchester City/Manchester Local Champions 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Manchester City para la temporada 2024-2025.",
-    "equipo": "Manchester City",
-    "talla": "Adulto"
+    "nombre": "Camiseta c10b77bd-66e7-4f08-9a52-52db74dca703",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\c10b77bd-66e7-4f08-9a52-52db74dca703.jpg",
+    "descripcion": "Descripción de c10b77bd-66e7-4f08-9a52-52db74dca703",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "16",
-    "nombre": "Camiseta Local Manchester United 2024-2025 Galleta",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Manchester United/Manchester United Local 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Manchester United para la temporada 2024-2025.",
-    "equipo": "Manchester United",
-    "talla": "Adulto",
-    "acabado": "Galleta"
-
+    "nombre": "Camiseta d0da4726-6450-4b46-8650-47755fb1d22c",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\d0da4726-6450-4b46-8650-47755fb1d22c.jpg",
+    "descripcion": "Descripción de d0da4726-6450-4b46-8650-47755fb1d22c",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "17",
-    "nombre": "Camiseta Local Atlético de Madrid 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Atlético de Madrid/Atlético de Madrid Local 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Atlético de Madrid para la temporada 2024-2025.",
-    "equipo": "Atlético de Madrid",
-    "talla": "Adulto",
-    "acabado": "Galleta"
+    "nombre": "Camiseta e7ba9aaf-eb5d-4cbe-9d6e-d6f5075d114d",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\e7ba9aaf-eb5d-4cbe-9d6e-d6f5075d114d.jpg",
+    "descripcion": "Descripción de e7ba9aaf-eb5d-4cbe-9d6e-d6f5075d114d",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "18",
-    "nombre": "Camiseta Visitante Rayo Vallecano 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Rayo Vallecano/Rayo Vallecano Visitante 24-25.jpg",
-    "descripcion": "La camiseta oficial de visitante del Rayo Vallecano para la temporada 2024-2025.",
-    "equipo": "Rayo Vallecano",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta eb78762e-0de5-4916-89c2-7ebd8ef6e912",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\eb78762e-0de5-4916-89c2-7ebd8ef6e912.jpg",
+    "descripcion": "Descripción de eb78762e-0de5-4916-89c2-7ebd8ef6e912",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "19",
-    "nombre": "Camiseta Alternativa Borussia Dortmund 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Borussia Dortmund/Borussia Dortmund Alternativa 24-25.jpg",
-    "descripcion": "La camiseta alternativa del Borussia Dortmund para la temporada 2024-2025.",
-    "equipo": "Borussia Dortmund",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta edb80f85-a100-4bf6-a5fa-bc745078262f",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\edb80f85-a100-4bf6-a5fa-bc745078262f.jpg",
+    "descripcion": "Descripción de edb80f85-a100-4bf6-a5fa-bc745078262f",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "20",
-    "nombre": "Camiseta Alternativa Tottenham 2020-2021",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Tottenham/Tottenham Alternativa 20-21.jpg",
-    "descripcion": "Camiseta alternativa del Tottenham Hotspur para la temporada 2020-2021, con franjas verticales en tonos azules.",
-    "equipo": "Tottenham Hotspur",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta f582d474-3fbe-42c5-bc0d-f72921821d8f",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\f582d474-3fbe-42c5-bc0d-f72921821d8f.jpg",
+    "descripcion": "Descripción de f582d474-3fbe-42c5-bc0d-f72921821d8f",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "21",
-    "nombre": "Camiseta Local Tottenham 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Tottenham/Tottenham Local 20-21.jpg",
-    "descripcion": "Camiseta oficial de local del Tottenham Hotspur para la temporada 2020-2021, en blanco con mangas azul marino.",
-    "equipo": "Tottenham Hotspur",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta f6342a00-108c-47f5-beb6-5258a1914637",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\f6342a00-108c-47f5-beb6-5258a1914637.jpg",
+    "descripcion": "Descripción de f6342a00-108c-47f5-beb6-5258a1914637",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "22",
-    "nombre": "Camiseta Visitante Chivas 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Chivas/Chivas Visitante 24-25.jpg",
-    "descripcion": "Camiseta oficial de local del Tottenham para la temporada 2021-2022, diseño limpio en blanco con detalles oscuros.",
-    "equipo": "Tottenham Hotspur",
-    "talla": "Adulto",
-      "acabado": ""
+    "nombre": "Camiseta FB_IMG_1742573440482",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573440482.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573440482",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "23",
-    "nombre": "Camiseta Alternativa Atlético de Madrid 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Atlético de Madrid/Atlético de Madrid Alternativa 24-25.jpg",
-    "descripcion": "La camiseta alternativa del Atlético de Madrid para la temporada 2024-2025.",
-    "equipo": "Atlético de Madrid",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta FB_IMG_1742573442530",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573442530.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573442530",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "24",
-    "nombre": "Camiseta Alternativa Real Madrid 2024-2025 ",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Real Madrid/Real Madrid Alternativa 24-25.jpg",
-    "descripcion": "La camiseta alternativa del Real Madrid para la temporada 2024-2025.",
-    "equipo": "Real Madrid",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta FB_IMG_1742573444421",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573444421.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573444421",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "25",
-    "nombre": "Camiseta Local Flamengo 2024-2025",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Flamengo/Flamengo Local 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Flamengo para la temporada 2024-2025.",
-    "equipo": "Flamengo",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta FB_IMG_1742573446335",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573446335.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573446335",
+    "equipo": "Equipo Desconocido"
   },
   {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
     "id": "26",
-    "nombre": "Camiseta Local Juventus 2024-2025 Galleta",
-    "precio": "90000",
-    "imagen": "assets/img/camisetas/Juventus/Juventus Local 24-25.jpg",
-    "descripcion": "La camiseta oficial de local de la Juventus para la temporada 2024-2025.",
-    "equipo": "Juventus",
-    "talla": "Adulto",
-    "acabado": ""
+    "nombre": "Camiseta FB_IMG_1742573448123",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573448123.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573448123",
+    "equipo": "Equipo Desconocido"
   },
   {
-    "id": "27",
-    "nombre": "Camiseta Local Manchester City 2024-2025 Galleta",
     "precio": "90000",
-    "imagen": "assets/img/camisetas/Manchester City/Manchester City Local 24-25.jpg",
-    "descripcion": "La camiseta oficial de local del Manchester City para la temporada 2024-2025.",
-    "equipo": "Manchester City",
     "talla": "Adulto",
-    "acabado": ""
+    "acabado": "",
+    "id": "27",
+    "nombre": "Camiseta FB_IMG_1742573449974",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573449974.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573449974",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "28",
+    "nombre": "Camiseta FB_IMG_1742573452220",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573452220.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573452220",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "29",
+    "nombre": "Camiseta FB_IMG_1742573454359",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573454359.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573454359",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "30",
+    "nombre": "Camiseta FB_IMG_1742573456203",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573456203.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573456203",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "31",
+    "nombre": "Camiseta FB_IMG_1742573458390",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573458390.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573458390",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "32",
+    "nombre": "Camiseta FB_IMG_1742573460274",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573460274.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573460274",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "33",
+    "nombre": "Camiseta FB_IMG_1742573462183",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573462183.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573462183",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "34",
+    "nombre": "Camiseta FB_IMG_1742573466243",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573466243.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573466243",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "35",
+    "nombre": "Camiseta FB_IMG_1742573468540",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573468540.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573468540",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "36",
+    "nombre": "Camiseta FB_IMG_1742573470445",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573470445.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573470445",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "37",
+    "nombre": "Camiseta FB_IMG_1742573472337",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573472337.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573472337",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "38",
+    "nombre": "Camiseta FB_IMG_1742573474246",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573474246.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573474246",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "39",
+    "nombre": "Camiseta FB_IMG_1742573476266",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573476266.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573476266",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "40",
+    "nombre": "Camiseta FB_IMG_1742573478380",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573478380.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573478380",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "41",
+    "nombre": "Camiseta FB_IMG_1742573480390",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573480390.jpg",
+    "descripcion": "Descripción de FB_IMG_1742573480390",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "42",
+    "nombre": "Camiseta fc26fada-ef02-4342-9e2e-d46e219664b7",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\fc26fada-ef02-4342-9e2e-d46e219664b7.jpg",
+    "descripcion": "Descripción de fc26fada-ef02-4342-9e2e-d46e219664b7",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "43",
+    "nombre": "Camiseta ffb08273-cd84-4ddb-a8f6-a19c7578b24a",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\ffb08273-cd84-4ddb-a8f6-a19c7578b24a.jpg",
+    "descripcion": "Descripción de ffb08273-cd84-4ddb-a8f6-a19c7578b24a",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "44",
+    "nombre": "Camiseta IMG-20250227-WA0014",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250227-WA0014.jpg",
+    "descripcion": "Descripción de IMG-20250227-WA0014",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "45",
+    "nombre": "Camiseta IMG-20250227-WA0015",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250227-WA0015.jpg",
+    "descripcion": "Descripción de IMG-20250227-WA0015",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "46",
+    "nombre": "Camiseta IMG-20250227-WA0016",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250227-WA0016.jpg",
+    "descripcion": "Descripción de IMG-20250227-WA0016",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "47",
+    "nombre": "Camiseta IMG-20250228-WA0039",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0039.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0039",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "48",
+    "nombre": "Camiseta IMG-20250228-WA0040",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0040.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0040",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "49",
+    "nombre": "Camiseta IMG-20250228-WA0041",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0041.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0041",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "50",
+    "nombre": "Camiseta IMG-20250228-WA0042",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0042.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0042",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "51",
+    "nombre": "Camiseta IMG-20250228-WA0043",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0043.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0043",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "52",
+    "nombre": "Camiseta IMG-20250228-WA0044",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0044.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0044",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "53",
+    "nombre": "Camiseta IMG-20250228-WA0045",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0045.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0045",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "54",
+    "nombre": "Camiseta IMG-20250228-WA0046",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0046.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0046",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "55",
+    "nombre": "Camiseta IMG-20250228-WA0047",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0047.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0047",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "56",
+    "nombre": "Camiseta IMG-20250228-WA0048",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0048.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0048",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "57",
+    "nombre": "Camiseta IMG-20250228-WA0049",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0049.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0049",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "58",
+    "nombre": "Camiseta IMG-20250228-WA0050",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0050.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0050",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "59",
+    "nombre": "Camiseta IMG-20250228-WA0052",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0052.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0052",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "60",
+    "nombre": "Camiseta IMG-20250228-WA0053",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0053.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0053",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "61",
+    "nombre": "Camiseta IMG-20250228-WA0054",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0054.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0054",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "62",
+    "nombre": "Camiseta IMG-20250228-WA0055",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0055.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0055",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "63",
+    "nombre": "Camiseta IMG-20250228-WA0058",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0058.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0058",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "64",
+    "nombre": "Camiseta IMG-20250228-WA0059",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0059.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0059",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "65",
+    "nombre": "Camiseta IMG-20250228-WA0060",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0060.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0060",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "66",
+    "nombre": "Camiseta IMG-20250228-WA0062",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0062.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0062",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "67",
+    "nombre": "Camiseta IMG-20250228-WA0063",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0063.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0063",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "68",
+    "nombre": "Camiseta IMG-20250228-WA0064",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0064.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0064",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "69",
+    "nombre": "Camiseta IMG-20250228-WA0108",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0108.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0108",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "70",
+    "nombre": "Camiseta IMG-20250228-WA0110",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0110.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0110",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "71",
+    "nombre": "Camiseta IMG-20250228-WA0111",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0111.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0111",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "72",
+    "nombre": "Camiseta IMG-20250228-WA0116",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0116.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0116",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "73",
+    "nombre": "Camiseta IMG-20250228-WA0117",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0117.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0117",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "74",
+    "nombre": "Camiseta IMG-20250228-WA0118",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0118.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0118",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "75",
+    "nombre": "Camiseta IMG-20250228-WA0119",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0119.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0119",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "76",
+    "nombre": "Camiseta IMG-20250228-WA0120",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0120.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0120",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "77",
+    "nombre": "Camiseta IMG-20250228-WA0121",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0121.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0121",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "78",
+    "nombre": "Camiseta IMG-20250228-WA0122",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0122.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0122",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "79",
+    "nombre": "Camiseta IMG-20250228-WA0123",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0123.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0123",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "80",
+    "nombre": "Camiseta IMG-20250228-WA0124",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250228-WA0124.jpg",
+    "descripcion": "Descripción de IMG-20250228-WA0124",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "81",
+    "nombre": "Camiseta IMG-20250301-WA0000",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250301-WA0000.jpg",
+    "descripcion": "Descripción de IMG-20250301-WA0000",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "82",
+    "nombre": "Camiseta IMG-20250301-WA0001",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250301-WA0001.jpg",
+    "descripcion": "Descripción de IMG-20250301-WA0001",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "83",
+    "nombre": "Camiseta IMG-20250301-WA0002",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250301-WA0002.jpg",
+    "descripcion": "Descripción de IMG-20250301-WA0002",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "84",
+    "nombre": "Camiseta IMG-20250301-WA0003",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250301-WA0003.jpg",
+    "descripcion": "Descripción de IMG-20250301-WA0003",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "85",
+    "nombre": "Camiseta IMG-20250303-WA0213",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0213.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0213",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "86",
+    "nombre": "Camiseta IMG-20250303-WA0214",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0214.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0214",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "87",
+    "nombre": "Camiseta IMG-20250303-WA0215",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0215.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0215",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "88",
+    "nombre": "Camiseta IMG-20250303-WA0216",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0216.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0216",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "89",
+    "nombre": "Camiseta IMG-20250303-WA0217",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0217.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0217",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "90",
+    "nombre": "Camiseta IMG-20250303-WA0218",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0218.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0218",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "91",
+    "nombre": "Camiseta IMG-20250303-WA0219",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0219.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0219",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "92",
+    "nombre": "Camiseta IMG-20250303-WA0220",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0220.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0220",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "93",
+    "nombre": "Camiseta IMG-20250303-WA0221",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0221.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0221",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "94",
+    "nombre": "Camiseta IMG-20250303-WA0222",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0222.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0222",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "95",
+    "nombre": "Camiseta IMG-20250303-WA0223",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0223.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0223",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "96",
+    "nombre": "Camiseta IMG-20250303-WA0224",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0224.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0224",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "97",
+    "nombre": "Camiseta IMG-20250303-WA0225",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0225.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0225",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "98",
+    "nombre": "Camiseta IMG-20250303-WA0226",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0226.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0226",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "99",
+    "nombre": "Camiseta IMG-20250303-WA0227",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0227.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0227",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "100",
+    "nombre": "Camiseta IMG-20250303-WA0228",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0228.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0228",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "101",
+    "nombre": "Camiseta IMG-20250303-WA0229",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0229.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0229",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "102",
+    "nombre": "Camiseta IMG-20250303-WA0230",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0230.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0230",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "103",
+    "nombre": "Camiseta IMG-20250303-WA0231",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0231.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0231",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "104",
+    "nombre": "Camiseta IMG-20250303-WA0232",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0232.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0232",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "105",
+    "nombre": "Camiseta IMG-20250303-WA0233",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0233.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0233",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "106",
+    "nombre": "Camiseta IMG-20250303-WA0234",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0234.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0234",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "107",
+    "nombre": "Camiseta IMG-20250303-WA0235",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0235.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0235",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "108",
+    "nombre": "Camiseta IMG-20250303-WA0236",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0236.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0236",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "109",
+    "nombre": "Camiseta IMG-20250303-WA0237",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0237.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0237",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "110",
+    "nombre": "Camiseta IMG-20250303-WA0238",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0238.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0238",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "111",
+    "nombre": "Camiseta IMG-20250303-WA0239",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0239.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0239",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "112",
+    "nombre": "Camiseta IMG-20250303-WA0240",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0240.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0240",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "113",
+    "nombre": "Camiseta IMG-20250303-WA0241",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0241.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0241",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "114",
+    "nombre": "Camiseta IMG-20250303-WA0242",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0242.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0242",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "115",
+    "nombre": "Camiseta IMG-20250303-WA0243",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0243.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0243",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "116",
+    "nombre": "Camiseta IMG-20250303-WA0244",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0244.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0244",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "117",
+    "nombre": "Camiseta IMG-20250303-WA0245",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0245.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0245",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "118",
+    "nombre": "Camiseta IMG-20250303-WA0246",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0246.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0246",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "119",
+    "nombre": "Camiseta IMG-20250303-WA0247",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0247.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0247",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "120",
+    "nombre": "Camiseta IMG-20250303-WA0248",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0248.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0248",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "121",
+    "nombre": "Camiseta IMG-20250303-WA0249",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0249.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0249",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "122",
+    "nombre": "Camiseta IMG-20250303-WA0250",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0250.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0250",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "123",
+    "nombre": "Camiseta IMG-20250303-WA0251",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0251.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0251",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "124",
+    "nombre": "Camiseta IMG-20250303-WA0252",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0252.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0252",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "125",
+    "nombre": "Camiseta IMG-20250303-WA0253",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0253.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0253",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "126",
+    "nombre": "Camiseta IMG-20250303-WA0254",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0254.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0254",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "127",
+    "nombre": "Camiseta IMG-20250303-WA0255",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0255.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0255",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "128",
+    "nombre": "Camiseta IMG-20250303-WA0256",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0256.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0256",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "129",
+    "nombre": "Camiseta IMG-20250303-WA0257",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0257.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0257",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "130",
+    "nombre": "Camiseta IMG-20250303-WA0258",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0258.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0258",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "131",
+    "nombre": "Camiseta IMG-20250303-WA0307",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0307.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0307",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "132",
+    "nombre": "Camiseta IMG-20250303-WA0308",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0308.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0308",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "133",
+    "nombre": "Camiseta IMG-20250303-WA0309",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0309.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0309",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "134",
+    "nombre": "Camiseta IMG-20250303-WA0310",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0310.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0310",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "135",
+    "nombre": "Camiseta IMG-20250303-WA0311",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0311.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0311",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "136",
+    "nombre": "Camiseta IMG-20250303-WA0312",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0312.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0312",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "137",
+    "nombre": "Camiseta IMG-20250303-WA0313",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0313.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0313",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "138",
+    "nombre": "Camiseta IMG-20250303-WA0314",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0314.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0314",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "139",
+    "nombre": "Camiseta IMG-20250303-WA0315",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0315.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0315",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "140",
+    "nombre": "Camiseta IMG-20250303-WA0316",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0316.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0316",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "141",
+    "nombre": "Camiseta IMG-20250303-WA0317",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0317.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0317",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "142",
+    "nombre": "Camiseta IMG-20250303-WA0318",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0318.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0318",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "143",
+    "nombre": "Camiseta IMG-20250303-WA0319",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0319.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0319",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "144",
+    "nombre": "Camiseta IMG-20250303-WA0320",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0320.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0320",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "145",
+    "nombre": "Camiseta IMG-20250303-WA0321",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0321.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0321",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "146",
+    "nombre": "Camiseta IMG-20250303-WA0322",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0322.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0322",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "147",
+    "nombre": "Camiseta IMG-20250303-WA0323",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0323.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0323",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "148",
+    "nombre": "Camiseta IMG-20250303-WA0324",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250303-WA0324.jpg",
+    "descripcion": "Descripción de IMG-20250303-WA0324",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "149",
+    "nombre": "Camiseta IMG-20250304-WA0001",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0001.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0001",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "150",
+    "nombre": "Camiseta IMG-20250304-WA0002",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0002.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0002",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "151",
+    "nombre": "Camiseta IMG-20250304-WA0003",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0003.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0003",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "152",
+    "nombre": "Camiseta IMG-20250304-WA0004",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0004.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0004",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "153",
+    "nombre": "Camiseta IMG-20250304-WA0005",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0005.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0005",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "154",
+    "nombre": "Camiseta IMG-20250304-WA0006",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0006.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0006",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "155",
+    "nombre": "Camiseta IMG-20250304-WA0007",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0007.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0007",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "156",
+    "nombre": "Camiseta IMG-20250304-WA0008",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0008.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0008",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "157",
+    "nombre": "Camiseta IMG-20250304-WA0009",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0009.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0009",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "158",
+    "nombre": "Camiseta IMG-20250304-WA0010",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0010.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0010",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "159",
+    "nombre": "Camiseta IMG-20250304-WA0011",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0011.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0011",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "160",
+    "nombre": "Camiseta IMG-20250304-WA0012",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0012.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0012",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "161",
+    "nombre": "Camiseta IMG-20250304-WA0021",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0021.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0021",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "162",
+    "nombre": "Camiseta IMG-20250304-WA0022",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0022.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0022",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "163",
+    "nombre": "Camiseta IMG-20250304-WA0023",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0023.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0023",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "164",
+    "nombre": "Camiseta IMG-20250304-WA0024",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0024.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0024",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "165",
+    "nombre": "Camiseta IMG-20250304-WA0025",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0025.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0025",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "166",
+    "nombre": "Camiseta IMG-20250304-WA0026",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0026.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0026",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "167",
+    "nombre": "Camiseta IMG-20250304-WA0027",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0027.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0027",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "168",
+    "nombre": "Camiseta IMG-20250304-WA0028",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0028.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0028",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "169",
+    "nombre": "Camiseta IMG-20250304-WA0029",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0029.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0029",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "170",
+    "nombre": "Camiseta IMG-20250304-WA0030",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0030.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0030",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "171",
+    "nombre": "Camiseta IMG-20250304-WA0031",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0031.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0031",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "172",
+    "nombre": "Camiseta IMG-20250304-WA0032",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0032.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0032",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "173",
+    "nombre": "Camiseta IMG-20250304-WA0033",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0033.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0033",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "174",
+    "nombre": "Camiseta IMG-20250304-WA0034",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0034.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0034",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "175",
+    "nombre": "Camiseta IMG-20250304-WA0035",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0035.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0035",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "176",
+    "nombre": "Camiseta IMG-20250304-WA0036",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0036.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0036",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "177",
+    "nombre": "Camiseta IMG-20250304-WA0037",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0037.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0037",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "178",
+    "nombre": "Camiseta IMG-20250304-WA0038",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0038.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0038",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "179",
+    "nombre": "Camiseta IMG-20250304-WA0039",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0039.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0039",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "180",
+    "nombre": "Camiseta IMG-20250304-WA0040",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0040.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0040",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "181",
+    "nombre": "Camiseta IMG-20250304-WA0041",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0041.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0041",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "182",
+    "nombre": "Camiseta IMG-20250304-WA0042",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0042.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0042",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "183",
+    "nombre": "Camiseta IMG-20250304-WA0043",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0043.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0043",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "184",
+    "nombre": "Camiseta IMG-20250304-WA0044",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0044.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0044",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "185",
+    "nombre": "Camiseta IMG-20250304-WA0045",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0045.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0045",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "186",
+    "nombre": "Camiseta IMG-20250304-WA0054",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0054.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0054",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "187",
+    "nombre": "Camiseta IMG-20250304-WA0055",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0055.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0055",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "188",
+    "nombre": "Camiseta IMG-20250304-WA0056",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0056.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0056",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "189",
+    "nombre": "Camiseta IMG-20250304-WA0057",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0057.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0057",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "190",
+    "nombre": "Camiseta IMG-20250304-WA0058",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0058.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0058",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "191",
+    "nombre": "Camiseta IMG-20250304-WA0059",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0059.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0059",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "192",
+    "nombre": "Camiseta IMG-20250304-WA0060",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0060.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0060",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "193",
+    "nombre": "Camiseta IMG-20250304-WA0061",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0061.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0061",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "194",
+    "nombre": "Camiseta IMG-20250304-WA0062",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0062.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0062",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "195",
+    "nombre": "Camiseta IMG-20250304-WA0063",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0063.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0063",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "196",
+    "nombre": "Camiseta IMG-20250304-WA0064",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0064.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0064",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "197",
+    "nombre": "Camiseta IMG-20250304-WA0065",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0065.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0065",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "198",
+    "nombre": "Camiseta IMG-20250304-WA0066",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0066.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0066",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "199",
+    "nombre": "Camiseta IMG-20250304-WA0067",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0067.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0067",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "200",
+    "nombre": "Camiseta IMG-20250304-WA0068",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0068.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0068",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "201",
+    "nombre": "Camiseta IMG-20250304-WA0069",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0069.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0069",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "202",
+    "nombre": "Camiseta IMG-20250304-WA0070",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0070.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0070",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "203",
+    "nombre": "Camiseta IMG-20250304-WA0071",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0071.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0071",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "204",
+    "nombre": "Camiseta IMG-20250304-WA0072",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0072.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0072",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "205",
+    "nombre": "Camiseta IMG-20250304-WA0073",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0073.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0073",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "206",
+    "nombre": "Camiseta IMG-20250304-WA0074",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0074.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0074",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "207",
+    "nombre": "Camiseta IMG-20250304-WA0075",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0075.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0075",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "208",
+    "nombre": "Camiseta IMG-20250304-WA0076",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0076.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0076",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "209",
+    "nombre": "Camiseta IMG-20250304-WA0077",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0077.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0077",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "210",
+    "nombre": "Camiseta IMG-20250304-WA0122",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0122.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0122",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "211",
+    "nombre": "Camiseta IMG-20250304-WA0123",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0123.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0123",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "212",
+    "nombre": "Camiseta IMG-20250304-WA0124",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0124.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0124",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "213",
+    "nombre": "Camiseta IMG-20250304-WA0125",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0125.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0125",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "214",
+    "nombre": "Camiseta IMG-20250304-WA0126",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0126.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0126",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "215",
+    "nombre": "Camiseta IMG-20250304-WA0127",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0127.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0127",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "216",
+    "nombre": "Camiseta IMG-20250304-WA0128",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0128.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0128",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "217",
+    "nombre": "Camiseta IMG-20250304-WA0129",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0129.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0129",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "218",
+    "nombre": "Camiseta IMG-20250304-WA0130",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0130.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0130",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "219",
+    "nombre": "Camiseta IMG-20250304-WA0131",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0131.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0131",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "220",
+    "nombre": "Camiseta IMG-20250304-WA0132",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0132.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0132",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "221",
+    "nombre": "Camiseta IMG-20250304-WA0133",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0133.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0133",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "222",
+    "nombre": "Camiseta IMG-20250304-WA0134",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0134.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0134",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "223",
+    "nombre": "Camiseta IMG-20250304-WA0135",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0135.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0135",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "224",
+    "nombre": "Camiseta IMG-20250304-WA0136",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0136.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0136",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "225",
+    "nombre": "Camiseta IMG-20250304-WA0137",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0137.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0137",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "226",
+    "nombre": "Camiseta IMG-20250304-WA0138",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0138.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0138",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "227",
+    "nombre": "Camiseta IMG-20250304-WA0139",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0139.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0139",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "228",
+    "nombre": "Camiseta IMG-20250304-WA0140",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0140.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0140",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "229",
+    "nombre": "Camiseta IMG-20250304-WA0141",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0141.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0141",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "230",
+    "nombre": "Camiseta IMG-20250304-WA0151",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0151.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0151",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "231",
+    "nombre": "Camiseta IMG-20250304-WA0152",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0152.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0152",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "232",
+    "nombre": "Camiseta IMG-20250304-WA0153",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0153.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0153",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "233",
+    "nombre": "Camiseta IMG-20250304-WA0154",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0154.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0154",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "234",
+    "nombre": "Camiseta IMG-20250304-WA0155",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0155.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0155",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "235",
+    "nombre": "Camiseta IMG-20250304-WA0157",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0157.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0157",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "236",
+    "nombre": "Camiseta IMG-20250304-WA0158",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0158.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0158",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "237",
+    "nombre": "Camiseta IMG-20250304-WA0159",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0159.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0159",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "238",
+    "nombre": "Camiseta IMG-20250304-WA0160",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0160.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0160",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "239",
+    "nombre": "Camiseta IMG-20250304-WA0161",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0161.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0161",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "240",
+    "nombre": "Camiseta IMG-20250304-WA0162",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0162.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0162",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "241",
+    "nombre": "Camiseta IMG-20250304-WA0163",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0163.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0163",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "242",
+    "nombre": "Camiseta IMG-20250304-WA0164",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0164.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0164",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "243",
+    "nombre": "Camiseta IMG-20250304-WA0165",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0165.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0165",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "244",
+    "nombre": "Camiseta IMG-20250304-WA0166",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0166.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0166",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "245",
+    "nombre": "Camiseta IMG-20250304-WA0167",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0167.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0167",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "246",
+    "nombre": "Camiseta IMG-20250304-WA0168",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0168.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0168",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "247",
+    "nombre": "Camiseta IMG-20250304-WA0169",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0169.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0169",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "248",
+    "nombre": "Camiseta IMG-20250304-WA0170",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0170.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0170",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "249",
+    "nombre": "Camiseta IMG-20250304-WA0171",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0171.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0171",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "250",
+    "nombre": "Camiseta IMG-20250304-WA0172",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0172.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0172",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "251",
+    "nombre": "Camiseta IMG-20250304-WA0173",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0173.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0173",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "252",
+    "nombre": "Camiseta IMG-20250304-WA0174",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0174.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0174",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "253",
+    "nombre": "Camiseta IMG-20250304-WA0175",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0175.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0175",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "254",
+    "nombre": "Camiseta IMG-20250304-WA0176",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0176.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0176",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "255",
+    "nombre": "Camiseta IMG-20250304-WA0177",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0177.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0177",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "256",
+    "nombre": "Camiseta IMG-20250304-WA0178",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0178.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0178",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "257",
+    "nombre": "Camiseta IMG-20250304-WA0179",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0179.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0179",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "258",
+    "nombre": "Camiseta IMG-20250304-WA0180",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0180.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0180",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "259",
+    "nombre": "Camiseta IMG-20250304-WA0181",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0181.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0181",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "260",
+    "nombre": "Camiseta IMG-20250304-WA0182",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0182.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0182",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "261",
+    "nombre": "Camiseta IMG-20250304-WA0183",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0183.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0183",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "262",
+    "nombre": "Camiseta IMG-20250304-WA0184",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0184.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0184",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "263",
+    "nombre": "Camiseta IMG-20250304-WA0185",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0185.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0185",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "264",
+    "nombre": "Camiseta IMG-20250304-WA0186",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0186.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0186",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "265",
+    "nombre": "Camiseta IMG-20250304-WA0187",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0187.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0187",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "266",
+    "nombre": "Camiseta IMG-20250304-WA0188",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0188.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0188",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "267",
+    "nombre": "Camiseta IMG-20250304-WA0189",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0189.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0189",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "268",
+    "nombre": "Camiseta IMG-20250304-WA0190",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0190.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0190",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "269",
+    "nombre": "Camiseta IMG-20250304-WA0191",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0191.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0191",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "270",
+    "nombre": "Camiseta IMG-20250304-WA0192",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0192.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0192",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "271",
+    "nombre": "Camiseta IMG-20250304-WA0193",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0193.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0193",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "272",
+    "nombre": "Camiseta IMG-20250304-WA0194",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0194.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0194",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "273",
+    "nombre": "Camiseta IMG-20250304-WA0195",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0195.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0195",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "274",
+    "nombre": "Camiseta IMG-20250304-WA0196",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0196.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0196",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "275",
+    "nombre": "Camiseta IMG-20250304-WA0197",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0197.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0197",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "276",
+    "nombre": "Camiseta IMG-20250304-WA0198",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0198.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0198",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "277",
+    "nombre": "Camiseta IMG-20250304-WA0199",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0199.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0199",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "278",
+    "nombre": "Camiseta IMG-20250304-WA0200",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0200.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0200",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "279",
+    "nombre": "Camiseta IMG-20250304-WA0201",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0201.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0201",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "280",
+    "nombre": "Camiseta IMG-20250304-WA0202",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0202.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0202",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "281",
+    "nombre": "Camiseta IMG-20250304-WA0203",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0203.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0203",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "282",
+    "nombre": "Camiseta IMG-20250304-WA0204",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0204.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0204",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "283",
+    "nombre": "Camiseta IMG-20250304-WA0205",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0205.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0205",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "284",
+    "nombre": "Camiseta IMG-20250304-WA0206",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0206.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0206",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "285",
+    "nombre": "Camiseta IMG-20250304-WA0207",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0207.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0207",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "286",
+    "nombre": "Camiseta IMG-20250304-WA0208",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0208.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0208",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "287",
+    "nombre": "Camiseta IMG-20250304-WA0209",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0209.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0209",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "288",
+    "nombre": "Camiseta IMG-20250304-WA0210",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0210.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0210",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "289",
+    "nombre": "Camiseta IMG-20250304-WA0211",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0211.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0211",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "290",
+    "nombre": "Camiseta IMG-20250304-WA0212",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0212.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0212",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "291",
+    "nombre": "Camiseta IMG-20250304-WA0213",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0213.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0213",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "292",
+    "nombre": "Camiseta IMG-20250304-WA0214",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0214.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0214",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "293",
+    "nombre": "Camiseta IMG-20250304-WA0215",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0215.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0215",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "294",
+    "nombre": "Camiseta IMG-20250304-WA0216",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0216.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0216",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "295",
+    "nombre": "Camiseta IMG-20250304-WA0217",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0217.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0217",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "296",
+    "nombre": "Camiseta IMG-20250304-WA0219",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0219.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0219",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "297",
+    "nombre": "Camiseta IMG-20250304-WA0220",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0220.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0220",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "298",
+    "nombre": "Camiseta IMG-20250304-WA0221",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0221.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0221",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "299",
+    "nombre": "Camiseta IMG-20250304-WA0222",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0222.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0222",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "300",
+    "nombre": "Camiseta IMG-20250304-WA0223",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0223.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0223",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "301",
+    "nombre": "Camiseta IMG-20250304-WA0224",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0224.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0224",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "302",
+    "nombre": "Camiseta IMG-20250304-WA0225",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0225.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0225",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "303",
+    "nombre": "Camiseta IMG-20250304-WA0226",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0226.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0226",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "304",
+    "nombre": "Camiseta IMG-20250304-WA0227",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0227.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0227",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "305",
+    "nombre": "Camiseta IMG-20250304-WA0228",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0228.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0228",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "306",
+    "nombre": "Camiseta IMG-20250304-WA0229",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0229.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0229",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "307",
+    "nombre": "Camiseta IMG-20250304-WA0230",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0230.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0230",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "308",
+    "nombre": "Camiseta IMG-20250304-WA0231",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0231.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0231",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "309",
+    "nombre": "Camiseta IMG-20250304-WA0232",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0232.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0232",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "310",
+    "nombre": "Camiseta IMG-20250304-WA0233",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0233.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0233",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "311",
+    "nombre": "Camiseta IMG-20250304-WA0234",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0234.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0234",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "312",
+    "nombre": "Camiseta IMG-20250304-WA0235",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0235.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0235",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "313",
+    "nombre": "Camiseta IMG-20250304-WA0236",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0236.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0236",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "314",
+    "nombre": "Camiseta IMG-20250304-WA0237",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0237.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0237",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "315",
+    "nombre": "Camiseta IMG-20250304-WA0238",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0238.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0238",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "316",
+    "nombre": "Camiseta IMG-20250304-WA0239",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0239.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0239",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "317",
+    "nombre": "Camiseta IMG-20250304-WA0240",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0240.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0240",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "318",
+    "nombre": "Camiseta IMG-20250304-WA0241",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0241.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0241",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "319",
+    "nombre": "Camiseta IMG-20250304-WA0242",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0242.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0242",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "320",
+    "nombre": "Camiseta IMG-20250304-WA0243",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0243.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0243",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "321",
+    "nombre": "Camiseta IMG-20250304-WA0244",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0244.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0244",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "322",
+    "nombre": "Camiseta IMG-20250304-WA0245",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0245.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0245",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "323",
+    "nombre": "Camiseta IMG-20250304-WA0246",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0246.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0246",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "324",
+    "nombre": "Camiseta IMG-20250304-WA0247",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0247.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0247",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "325",
+    "nombre": "Camiseta IMG-20250304-WA0248",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0248.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0248",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "326",
+    "nombre": "Camiseta IMG-20250304-WA0249",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0249.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0249",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "327",
+    "nombre": "Camiseta IMG-20250304-WA0250",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0250.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0250",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "328",
+    "nombre": "Camiseta IMG-20250304-WA0251",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0251.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0251",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "329",
+    "nombre": "Camiseta IMG-20250304-WA0252",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0252.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0252",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "330",
+    "nombre": "Camiseta IMG-20250304-WA0253",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0253.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0253",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "331",
+    "nombre": "Camiseta IMG-20250304-WA0254",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0254.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0254",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "332",
+    "nombre": "Camiseta IMG-20250304-WA0255",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0255.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0255",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "333",
+    "nombre": "Camiseta IMG-20250304-WA0256",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0256.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0256",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "334",
+    "nombre": "Camiseta IMG-20250304-WA0257",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0257.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0257",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "335",
+    "nombre": "Camiseta IMG-20250304-WA0258",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0258.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0258",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "336",
+    "nombre": "Camiseta IMG-20250304-WA0259",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0259.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0259",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "337",
+    "nombre": "Camiseta IMG-20250304-WA0260",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0260.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0260",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "338",
+    "nombre": "Camiseta IMG-20250304-WA0261",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0261.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0261",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "339",
+    "nombre": "Camiseta IMG-20250304-WA0262",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0262.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0262",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "340",
+    "nombre": "Camiseta IMG-20250304-WA0263",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0263.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0263",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "341",
+    "nombre": "Camiseta IMG-20250304-WA0264",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0264.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0264",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "342",
+    "nombre": "Camiseta IMG-20250304-WA0265",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0265.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0265",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "343",
+    "nombre": "Camiseta IMG-20250304-WA0266",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0266.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0266",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "344",
+    "nombre": "Camiseta IMG-20250304-WA0267",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0267.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0267",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "345",
+    "nombre": "Camiseta IMG-20250304-WA0268",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0268.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0268",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "346",
+    "nombre": "Camiseta IMG-20250304-WA0269",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0269.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0269",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "347",
+    "nombre": "Camiseta IMG-20250304-WA0270",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0270.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0270",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "348",
+    "nombre": "Camiseta IMG-20250304-WA0271",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0271.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0271",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "349",
+    "nombre": "Camiseta IMG-20250304-WA0272",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0272.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0272",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "350",
+    "nombre": "Camiseta IMG-20250304-WA0273",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0273.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0273",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "351",
+    "nombre": "Camiseta IMG-20250304-WA0274",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0274.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0274",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "352",
+    "nombre": "Camiseta IMG-20250304-WA0275",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0275.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0275",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "353",
+    "nombre": "Camiseta IMG-20250304-WA0276",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0276.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0276",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "354",
+    "nombre": "Camiseta IMG-20250304-WA0277",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0277.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0277",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "355",
+    "nombre": "Camiseta IMG-20250304-WA0278",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0278.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0278",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "356",
+    "nombre": "Camiseta IMG-20250304-WA0279",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0279.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0279",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "357",
+    "nombre": "Camiseta IMG-20250304-WA0280",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0280.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0280",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "358",
+    "nombre": "Camiseta IMG-20250304-WA0281",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0281.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0281",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "359",
+    "nombre": "Camiseta IMG-20250304-WA0282",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0282.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0282",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "360",
+    "nombre": "Camiseta IMG-20250304-WA0283",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0283.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0283",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "361",
+    "nombre": "Camiseta IMG-20250304-WA0284",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0284.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0284",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "362",
+    "nombre": "Camiseta IMG-20250304-WA0285",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0285.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0285",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "363",
+    "nombre": "Camiseta IMG-20250304-WA0286",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0286.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0286",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "364",
+    "nombre": "Camiseta IMG-20250304-WA0287",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0287.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0287",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "365",
+    "nombre": "Camiseta IMG-20250304-WA0288",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0288.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0288",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "366",
+    "nombre": "Camiseta IMG-20250304-WA0289",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0289.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0289",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "367",
+    "nombre": "Camiseta IMG-20250304-WA0290",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0290.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0290",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "368",
+    "nombre": "Camiseta IMG-20250304-WA0291",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0291.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0291",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "369",
+    "nombre": "Camiseta IMG-20250304-WA0292",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0292.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0292",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "370",
+    "nombre": "Camiseta IMG-20250304-WA0293",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0293.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0293",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "371",
+    "nombre": "Camiseta IMG-20250304-WA0294",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0294.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0294",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "372",
+    "nombre": "Camiseta IMG-20250304-WA0295",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0295.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0295",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "373",
+    "nombre": "Camiseta IMG-20250304-WA0296",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0296.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0296",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "374",
+    "nombre": "Camiseta IMG-20250304-WA0297",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0297.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0297",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "375",
+    "nombre": "Camiseta IMG-20250304-WA0298",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0298.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0298",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "376",
+    "nombre": "Camiseta IMG-20250304-WA0299",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0299.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0299",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "377",
+    "nombre": "Camiseta IMG-20250304-WA0300",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0300.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0300",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "378",
+    "nombre": "Camiseta IMG-20250304-WA0301",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0301.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0301",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "379",
+    "nombre": "Camiseta IMG-20250304-WA0302",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0302.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0302",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "380",
+    "nombre": "Camiseta IMG-20250304-WA0304",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0304.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0304",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "381",
+    "nombre": "Camiseta IMG-20250304-WA0307",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0307.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0307",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "382",
+    "nombre": "Camiseta IMG-20250304-WA0308",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0308.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0308",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "383",
+    "nombre": "Camiseta IMG-20250304-WA0309",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0309.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0309",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "384",
+    "nombre": "Camiseta IMG-20250304-WA0310",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0310.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0310",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "385",
+    "nombre": "Camiseta IMG-20250304-WA0311",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0311.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0311",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "386",
+    "nombre": "Camiseta IMG-20250304-WA0313",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0313.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0313",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "387",
+    "nombre": "Camiseta IMG-20250304-WA0314",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0314.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0314",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "388",
+    "nombre": "Camiseta IMG-20250304-WA0315",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0315.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0315",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "389",
+    "nombre": "Camiseta IMG-20250304-WA0316",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0316.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0316",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "390",
+    "nombre": "Camiseta IMG-20250304-WA0317",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0317.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0317",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "391",
+    "nombre": "Camiseta IMG-20250304-WA0318",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0318.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0318",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "392",
+    "nombre": "Camiseta IMG-20250304-WA0319",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0319.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0319",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "393",
+    "nombre": "Camiseta IMG-20250304-WA0320",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0320.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0320",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "394",
+    "nombre": "Camiseta IMG-20250304-WA0321",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0321.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0321",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "395",
+    "nombre": "Camiseta IMG-20250304-WA0322",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0322.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0322",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "396",
+    "nombre": "Camiseta IMG-20250304-WA0323",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0323.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0323",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "397",
+    "nombre": "Camiseta IMG-20250304-WA0324",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0324.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0324",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "398",
+    "nombre": "Camiseta IMG-20250304-WA0325",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0325.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0325",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "399",
+    "nombre": "Camiseta IMG-20250304-WA0326",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0326.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0326",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "400",
+    "nombre": "Camiseta IMG-20250304-WA0327",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250304-WA0327.jpg",
+    "descripcion": "Descripción de IMG-20250304-WA0327",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "401",
+    "nombre": "Camiseta IMG-20250305-WA0049",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0049.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0049",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "402",
+    "nombre": "Camiseta IMG-20250305-WA0050",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0050.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0050",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "403",
+    "nombre": "Camiseta IMG-20250305-WA0051",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0051.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0051",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "404",
+    "nombre": "Camiseta IMG-20250305-WA0052",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0052.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0052",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "405",
+    "nombre": "Camiseta IMG-20250305-WA0054",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0054.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0054",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "406",
+    "nombre": "Camiseta IMG-20250305-WA0055",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0055.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0055",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "407",
+    "nombre": "Camiseta IMG-20250305-WA0056",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0056.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0056",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "408",
+    "nombre": "Camiseta IMG-20250305-WA0057",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0057.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0057",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "409",
+    "nombre": "Camiseta IMG-20250305-WA0058",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250305-WA0058.jpg",
+    "descripcion": "Descripción de IMG-20250305-WA0058",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "410",
+    "nombre": "Camiseta IMG-20250312-WA0043",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0043.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0043",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "411",
+    "nombre": "Camiseta IMG-20250312-WA0044",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0044.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0044",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "412",
+    "nombre": "Camiseta IMG-20250312-WA0045",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0045.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0045",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "413",
+    "nombre": "Camiseta IMG-20250312-WA0046",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0046.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0046",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "414",
+    "nombre": "Camiseta IMG-20250312-WA0047",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0047.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0047",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "415",
+    "nombre": "Camiseta IMG-20250312-WA0048",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0048.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0048",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "416",
+    "nombre": "Camiseta IMG-20250312-WA0049",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0049.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0049",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "417",
+    "nombre": "Camiseta IMG-20250312-WA0050",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0050.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0050",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "418",
+    "nombre": "Camiseta IMG-20250312-WA0051",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0051.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0051",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "419",
+    "nombre": "Camiseta IMG-20250312-WA0052",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0052.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0052",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "420",
+    "nombre": "Camiseta IMG-20250312-WA0053",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0053.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0053",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "421",
+    "nombre": "Camiseta IMG-20250312-WA0054",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0054.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0054",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "422",
+    "nombre": "Camiseta IMG-20250312-WA0055",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0055.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0055",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "423",
+    "nombre": "Camiseta IMG-20250312-WA0056",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0056.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0056",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "424",
+    "nombre": "Camiseta IMG-20250312-WA0057",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0057.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0057",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "425",
+    "nombre": "Camiseta IMG-20250312-WA0058",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0058.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0058",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "426",
+    "nombre": "Camiseta IMG-20250312-WA0059",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0059.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0059",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "427",
+    "nombre": "Camiseta IMG-20250312-WA0060",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0060.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0060",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "428",
+    "nombre": "Camiseta IMG-20250312-WA0061",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0061.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0061",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "429",
+    "nombre": "Camiseta IMG-20250312-WA0062",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250312-WA0062.jpg",
+    "descripcion": "Descripción de IMG-20250312-WA0062",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "430",
+    "nombre": "Camiseta IMG-20250318-WA0125",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0125.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0125",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "431",
+    "nombre": "Camiseta IMG-20250318-WA0135",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0135.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0135",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "432",
+    "nombre": "Camiseta IMG-20250318-WA0256",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0256.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0256",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "433",
+    "nombre": "Camiseta IMG-20250318-WA0258",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0258.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0258",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "434",
+    "nombre": "Camiseta IMG-20250318-WA0260",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0260.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0260",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "435",
+    "nombre": "Camiseta IMG-20250318-WA0261",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0261.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0261",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "436",
+    "nombre": "Camiseta IMG-20250318-WA0262",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0262.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0262",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "437",
+    "nombre": "Camiseta IMG-20250318-WA0263",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0263.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0263",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "438",
+    "nombre": "Camiseta IMG-20250318-WA0266",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0266.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0266",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "439",
+    "nombre": "Camiseta IMG-20250318-WA0267",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0267.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0267",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "440",
+    "nombre": "Camiseta IMG-20250318-WA0268",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0268.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0268",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "441",
+    "nombre": "Camiseta IMG-20250318-WA0269",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0269.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0269",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "442",
+    "nombre": "Camiseta IMG-20250318-WA0270",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0270.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0270",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "443",
+    "nombre": "Camiseta IMG-20250318-WA0271",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0271.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0271",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "444",
+    "nombre": "Camiseta IMG-20250318-WA0272",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0272.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0272",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "445",
+    "nombre": "Camiseta IMG-20250318-WA0273",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0273.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0273",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "446",
+    "nombre": "Camiseta IMG-20250318-WA0274",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0274.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0274",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "447",
+    "nombre": "Camiseta IMG-20250318-WA0275",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0275.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0275",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "448",
+    "nombre": "Camiseta IMG-20250318-WA0276",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0276.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0276",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "449",
+    "nombre": "Camiseta IMG-20250318-WA0277",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0277.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0277",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "450",
+    "nombre": "Camiseta IMG-20250318-WA0278",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0278.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0278",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "451",
+    "nombre": "Camiseta IMG-20250318-WA0279",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0279.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0279",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "452",
+    "nombre": "Camiseta IMG-20250318-WA0280",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0280.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0280",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "453",
+    "nombre": "Camiseta IMG-20250318-WA0295",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0295.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0295",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "454",
+    "nombre": "Camiseta IMG-20250318-WA0296",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0296.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0296",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "455",
+    "nombre": "Camiseta IMG-20250318-WA0297",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0297.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0297",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "456",
+    "nombre": "Camiseta IMG-20250318-WA0299",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0299.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0299",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "457",
+    "nombre": "Camiseta IMG-20250318-WA0300",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0300.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0300",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "458",
+    "nombre": "Camiseta IMG-20250318-WA0301",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0301.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0301",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "459",
+    "nombre": "Camiseta IMG-20250318-WA0303",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0303.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0303",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "460",
+    "nombre": "Camiseta IMG-20250318-WA0304",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0304.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0304",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "461",
+    "nombre": "Camiseta IMG-20250318-WA0305",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0305.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0305",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "462",
+    "nombre": "Camiseta IMG-20250318-WA0306",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0306.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0306",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "463",
+    "nombre": "Camiseta IMG-20250318-WA0308",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0308.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0308",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "464",
+    "nombre": "Camiseta IMG-20250318-WA0309",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0309.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0309",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "465",
+    "nombre": "Camiseta IMG-20250318-WA0310",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250318-WA0310.jpg",
+    "descripcion": "Descripción de IMG-20250318-WA0310",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "466",
+    "nombre": "Camiseta IMG-20250319-WA0033",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0033.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0033",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "467",
+    "nombre": "Camiseta IMG-20250319-WA0034",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0034.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0034",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "468",
+    "nombre": "Camiseta IMG-20250319-WA0035",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0035.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0035",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "469",
+    "nombre": "Camiseta IMG-20250319-WA0036",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0036.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0036",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "470",
+    "nombre": "Camiseta IMG-20250319-WA0037",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0037.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0037",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "471",
+    "nombre": "Camiseta IMG-20250319-WA0038",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0038.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0038",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "472",
+    "nombre": "Camiseta IMG-20250319-WA0039",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0039.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0039",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "473",
+    "nombre": "Camiseta IMG-20250319-WA0040",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0040.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0040",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "474",
+    "nombre": "Camiseta IMG-20250319-WA0041",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0041.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0041",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "475",
+    "nombre": "Camiseta IMG-20250319-WA0042",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0042.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0042",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "476",
+    "nombre": "Camiseta IMG-20250319-WA0043",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0043.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0043",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "477",
+    "nombre": "Camiseta IMG-20250319-WA0044",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0044.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0044",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "478",
+    "nombre": "Camiseta IMG-20250319-WA0045",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0045.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0045",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "479",
+    "nombre": "Camiseta IMG-20250319-WA0046",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0046.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0046",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "480",
+    "nombre": "Camiseta IMG-20250319-WA0047",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0047.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0047",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "481",
+    "nombre": "Camiseta IMG-20250319-WA0048",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0048.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0048",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "482",
+    "nombre": "Camiseta IMG-20250319-WA0049",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0049.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0049",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "483",
+    "nombre": "Camiseta IMG-20250319-WA0050",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0050.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0050",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "484",
+    "nombre": "Camiseta IMG-20250319-WA0051",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0051.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0051",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "485",
+    "nombre": "Camiseta IMG-20250319-WA0052",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0052.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0052",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "486",
+    "nombre": "Camiseta IMG-20250319-WA0053",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0053.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0053",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "487",
+    "nombre": "Camiseta IMG-20250319-WA0054",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0054.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0054",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "488",
+    "nombre": "Camiseta IMG-20250319-WA0055",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0055.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0055",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "489",
+    "nombre": "Camiseta IMG-20250319-WA0056",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0056.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0056",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "490",
+    "nombre": "Camiseta IMG-20250319-WA0057",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0057.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0057",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "491",
+    "nombre": "Camiseta IMG-20250319-WA0058",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0058.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0058",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "492",
+    "nombre": "Camiseta IMG-20250319-WA0059",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0059.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0059",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "493",
+    "nombre": "Camiseta IMG-20250319-WA0060",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0060.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0060",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "494",
+    "nombre": "Camiseta IMG-20250319-WA0061",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0061.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0061",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "495",
+    "nombre": "Camiseta IMG-20250319-WA0062",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0062.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0062",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "496",
+    "nombre": "Camiseta IMG-20250319-WA0063",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0063.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0063",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "497",
+    "nombre": "Camiseta IMG-20250319-WA0064",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0064.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0064",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "498",
+    "nombre": "Camiseta IMG-20250319-WA0065",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0065.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0065",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "499",
+    "nombre": "Camiseta IMG-20250319-WA0066",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0066.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0066",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "500",
+    "nombre": "Camiseta IMG-20250319-WA0067",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0067.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0067",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "501",
+    "nombre": "Camiseta IMG-20250319-WA0068",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0068.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0068",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "502",
+    "nombre": "Camiseta IMG-20250319-WA0069",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0069.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0069",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "503",
+    "nombre": "Camiseta IMG-20250319-WA0070",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0070.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0070",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "504",
+    "nombre": "Camiseta IMG-20250319-WA0071",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0071.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0071",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "505",
+    "nombre": "Camiseta IMG-20250319-WA0072",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0072.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0072",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "506",
+    "nombre": "Camiseta IMG-20250319-WA0073",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0073.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0073",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "507",
+    "nombre": "Camiseta IMG-20250319-WA0074",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0074.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0074",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "508",
+    "nombre": "Camiseta IMG-20250319-WA0075",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0075.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0075",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "509",
+    "nombre": "Camiseta IMG-20250319-WA0076",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0076.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0076",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "510",
+    "nombre": "Camiseta IMG-20250319-WA0077",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0077.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0077",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "511",
+    "nombre": "Camiseta IMG-20250319-WA0078",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0078.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0078",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "512",
+    "nombre": "Camiseta IMG-20250319-WA0079",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0079.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0079",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "513",
+    "nombre": "Camiseta IMG-20250319-WA0080",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0080.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0080",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "514",
+    "nombre": "Camiseta IMG-20250319-WA0081",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0081.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0081",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "515",
+    "nombre": "Camiseta IMG-20250319-WA0082",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0082.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0082",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "516",
+    "nombre": "Camiseta IMG-20250319-WA0083",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0083.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0083",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "517",
+    "nombre": "Camiseta IMG-20250319-WA0084",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0084.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0084",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "518",
+    "nombre": "Camiseta IMG-20250319-WA0085",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0085.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0085",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "519",
+    "nombre": "Camiseta IMG-20250319-WA0086",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0086.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0086",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "520",
+    "nombre": "Camiseta IMG-20250319-WA0087",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0087.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0087",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "521",
+    "nombre": "Camiseta IMG-20250319-WA0088",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0088.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0088",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "522",
+    "nombre": "Camiseta IMG-20250319-WA0089",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0089.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0089",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "523",
+    "nombre": "Camiseta IMG-20250319-WA0090",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0090.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0090",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "524",
+    "nombre": "Camiseta IMG-20250319-WA0091",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0091.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0091",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "525",
+    "nombre": "Camiseta IMG-20250319-WA0092",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0092.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0092",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "526",
+    "nombre": "Camiseta IMG-20250319-WA0093",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0093.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0093",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "527",
+    "nombre": "Camiseta IMG-20250319-WA0094",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0094.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0094",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "528",
+    "nombre": "Camiseta IMG-20250319-WA0095",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0095.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0095",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "529",
+    "nombre": "Camiseta IMG-20250319-WA0096",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0096.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0096",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "530",
+    "nombre": "Camiseta IMG-20250319-WA0097",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0097.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0097",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "531",
+    "nombre": "Camiseta IMG-20250319-WA0098",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0098.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0098",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "532",
+    "nombre": "Camiseta IMG-20250319-WA0099",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0099.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0099",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "533",
+    "nombre": "Camiseta IMG-20250319-WA0100",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0100.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0100",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "534",
+    "nombre": "Camiseta IMG-20250319-WA0101",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250319-WA0101.jpg",
+    "descripcion": "Descripción de IMG-20250319-WA0101",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "535",
+    "nombre": "Camiseta IMG-20250321-WA0017",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0017.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0017",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "536",
+    "nombre": "Camiseta IMG-20250321-WA0018",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0018.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0018",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "537",
+    "nombre": "Camiseta IMG-20250321-WA0019",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0019.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0019",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "538",
+    "nombre": "Camiseta IMG-20250321-WA0020",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0020.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0020",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "539",
+    "nombre": "Camiseta IMG-20250321-WA0021",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0021.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0021",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "540",
+    "nombre": "Camiseta IMG-20250321-WA0022",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0022.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0022",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "541",
+    "nombre": "Camiseta IMG-20250321-WA0023",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0023.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0023",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "542",
+    "nombre": "Camiseta IMG-20250321-WA0024",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0024.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0024",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "543",
+    "nombre": "Camiseta IMG-20250321-WA0025",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0025.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0025",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "544",
+    "nombre": "Camiseta IMG-20250321-WA0027",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250321-WA0027.jpg",
+    "descripcion": "Descripción de IMG-20250321-WA0027",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "545",
+    "nombre": "Camiseta IMG-20250401-WA0041",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0041.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0041",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "546",
+    "nombre": "Camiseta IMG-20250401-WA0042",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0042.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0042",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "547",
+    "nombre": "Camiseta IMG-20250401-WA0043",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0043.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0043",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "548",
+    "nombre": "Camiseta IMG-20250401-WA0044",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0044.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0044",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "549",
+    "nombre": "Camiseta IMG-20250401-WA0045",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0045.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0045",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "550",
+    "nombre": "Camiseta IMG-20250401-WA0046",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0046.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0046",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "551",
+    "nombre": "Camiseta IMG-20250401-WA0047",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0047.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0047",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "552",
+    "nombre": "Camiseta IMG-20250401-WA0048",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0048.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0048",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "553",
+    "nombre": "Camiseta IMG-20250401-WA0049",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0049.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0049",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "554",
+    "nombre": "Camiseta IMG-20250401-WA0050",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0050.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0050",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "555",
+    "nombre": "Camiseta IMG-20250401-WA0051",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0051.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0051",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "556",
+    "nombre": "Camiseta IMG-20250401-WA0052",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0052.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0052",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "557",
+    "nombre": "Camiseta IMG-20250401-WA0053",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0053.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0053",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "558",
+    "nombre": "Camiseta IMG-20250401-WA0054",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0054.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0054",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "559",
+    "nombre": "Camiseta IMG-20250401-WA0058",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0058.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0058",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "560",
+    "nombre": "Camiseta IMG-20250401-WA0061",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0061.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0061",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "561",
+    "nombre": "Camiseta IMG-20250401-WA0076",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0076.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0076",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "562",
+    "nombre": "Camiseta IMG-20250401-WA0077",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0077.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0077",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "563",
+    "nombre": "Camiseta IMG-20250401-WA0078",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0078.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0078",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "564",
+    "nombre": "Camiseta IMG-20250401-WA0079",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0079.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0079",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "565",
+    "nombre": "Camiseta IMG-20250401-WA0080",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0080.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0080",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "566",
+    "nombre": "Camiseta IMG-20250401-WA0081",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0081.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0081",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "567",
+    "nombre": "Camiseta IMG-20250401-WA0082",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0082.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0082",
+    "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "90000",
+    "talla": "Adulto",
+    "acabado": "",
+    "id": "568",
+    "nombre": "Camiseta IMG-20250401-WA0083",
+    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0083.jpg",
+    "descripcion": "Descripción de IMG-20250401-WA0083",
+    "equipo": "Equipo Desconocido"
   }
- 
-  
-  
-  
 ]
