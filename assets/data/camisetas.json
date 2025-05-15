@@ -4,10 +4,10 @@
     "talla": "Adulto",
     "acabado": "",
     "id": "1",
-    "nombre": "Camiseta 1fadd29c-03c2-4b1d-80ba-19cf8e5d2ee6",
+    "nombre": "Camiseta Alternativa del Real Madrid 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\1fadd29c-03c2-4b1d-80ba-19cf8e5d2ee6.jpg",
     "descripcion": "Descripción de 1fadd29c-03c2-4b1d-80ba-19cf8e5d2ee6",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Real Madrid"
   },
   {
     "precio": "90000",
@@ -5678,5 +5678,665 @@
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\IMG-20250401-WA0083.jpg",
     "descripcion": "Descripción de IMG-20250401-WA0083",
     "equipo": "Equipo Desconocido"
+  },
+  {
+    "precio": "70000",
+    "talla": "Niño",
+    "acabado": "",
+    "id": "569",
+    "nombre": "Uniformes de niño Millonarios FC",
+    "imagen": "Uniformes de niño/1_20250508_101840_0000.png",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Millonarios FC"
+  },
+  {
+    "id": "570",
+    "nombre": "Uniformes de niño Bayern München",
+    "precio": "70000",
+    "imagen": "uniformes de niño/5be0f4b0-26d3-46f3-9145-0ff37dd7ddb3.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "571",
+    "nombre": "Uniformes de niño Millonarios FC",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/7bc9fcba-0c7d-43b0-9ca4-e25b1dd9dda4.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Millonarios FC",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "572",
+    "nombre": "Uniformes de niño Millonarios FC",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/9d178368-a6a8-4ed2-b02b-138ee5c43718.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Millonarios FC",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "573",
+    "nombre": "Uniformes de niño Millonarios FC",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/887fc537-5495-432e-9287-b056f7abed41.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Millonarios FC",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "574",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/a6b43d63.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "575",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/a67b8482-dd5d-4227-9686-2157c68210f8.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "576",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/c9ff4464-cd4d-4dd4-8b54-443f75420784.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "577",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/FB_IMG_1737237198944.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "578",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/FB_IMG_1737237202827.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "579",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/fe175e5d-94c3-43e6-800c-6c59950bd5c2.jpg",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "580",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0682.PNG",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "581",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0683.PNG",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "582",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0687.PNG",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "583",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0685.PNG",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "584",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0686.PNG",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "585",
+    "nombre": "Uniformes de niño",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0688.PNG",
+    "descripcion": "Camiseta de niño.",
+    "equipo": "Equipo Desconocido",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "587",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0689.PNG",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "588",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0690.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "589",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0691.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "590",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0692.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "591",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_0693.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "592",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_0904-19bdbece889c936d6b17417023131803-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "593",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_1282.PNG",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "594",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_2557~2.PNG",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "595",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_2560.PNG",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "596",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG_2562.PNG",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "597",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3179-79c1f2c8ff050b5e1017308387741422-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "598",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3186-bb72128a8f4bde510017308391491354-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "599",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3187-15a9aa49ff9cda3e8d17308392027594-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "600",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3190-5a988496ecedbe6d8217308394393594-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "601",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3196-b3871375593517a16017308398590519-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "602",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3198-1412362410c33d610d17308399318570-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "603",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3214-59a2a7bf254f75bba617309913198524-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "604",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3268-2b5820da2417facc6817309162676202-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "605",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3269-38e4d18423e5515e4117309165402133-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "606",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3277-fde245598a9608db9f17309213168735-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "607",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3282-66ad774eb827051d4317309216970236-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "608",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3283-24fe0ffc89fed5e20817309217589695-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "609",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3431-e71369dab56899484817310900604228-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "610",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3432-53b7dc617a5c5dd6ac17310901155640-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "611",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3439-b5798a86931ffd26dc17310905530257-480-0.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "612",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3441-e2285468d50b247fda17310904955769-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "613",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3444-466d6eba37561f938517310908453167-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "614",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3445-bb91e594339a5dce4317310907500677-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "615",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3447-2c1baf9d91a30fb76117310912341947-480-0.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "616",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3448-99b24882cdcade712317310913070987-480-0.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "617",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3452-4adece004c84c9704d17310915079216-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "618",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3454-0ddb23310f2c16ae5117310920483415-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "619",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3455-1428347bbff08ef51617310921144167-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "620",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_3459-a8ae8c0888d6785fa517310924636997-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "621",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/img_4931-139e4af328b417089317331551074863-1024-1024.jpeg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "622",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG-20250114-WA0055.jpg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "623",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG-20250114-WA0056.jpg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "624",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG-20250114-WA0058.jpg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "625",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/IMG-20250114-WA0059.jpg",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "626",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185003.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "627",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185011.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "628",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185019.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "629",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185027.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "630",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185035.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "631",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185043.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "632",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185051.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "633",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185059.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "634",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185107.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
+  },
+  {
+    "id": "635",
+    "nombre": "Camiseta Niño Bayern München 2024-2025",
+    "precio": "70000",
+    "imagen": "Uniformes de niño/Screenshot_20250318-185115.png",
+    "descripcion": "La camiseta oficial de niño del Bayern München para la temporada 2024-2025.",
+    "equipo": "Bayern München",
+    "talla": "Niño",
+    "acabado": ""
   }
 ]

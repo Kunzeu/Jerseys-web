@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentPage = 1;
     let allProductos = [];
     let carrito = localStorage.getItem('carrito') ? JSON.parse(localStorage.getItem('carrito')) : [];
+    let filteredProductos = []; // Inicializar como un array vacío
 
     // --- MENÚ HAMBURGUESA ---
     if (menuToggle && nav) {
@@ -107,8 +108,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 pageButton.addEventListener('click', (e) => {
                     e.preventDefault();
                     currentPage = i;
-                    renderPage(allProductos);
-                    renderPagination(totalProductos);
+                    renderPage(filteredProductos);
+                    renderPagination(filteredProductos.length);
                 });
                 paginationContainer.appendChild(pageButton);
             }
@@ -121,8 +122,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 prevButton.addEventListener('click', (e) => {
                     e.preventDefault();
                     currentPage = Math.max(1, currentPage - 1);
-                    renderPage(allProductos);
-                    renderPagination(totalProductos);
+                    renderPage(filteredProductos);
+                    renderPagination(filteredProductos.length);
                 });
                 paginationContainer.insertBefore(prevButton, paginationContainer.firstChild);
             }
@@ -135,11 +136,28 @@ document.addEventListener('DOMContentLoaded', () => {
                 nextButton.addEventListener('click', (e) => {
                     e.preventDefault();
                     currentPage = Math.min(totalPages, currentPage + 1);
-                    renderPage(allProductos);
-                    renderPagination(totalProductos);
+                    renderPage(filteredProductos);
+                    renderPagination(filteredProductos.length);
                 });
                 paginationContainer.appendChild(nextButton);
             }
+
+            // Add input for specific page number
+            const pageInput = document.createElement('input');
+            pageInput.type = 'number';
+            pageInput.min = 1;
+            pageInput.max = totalPages;
+            pageInput.value = currentPage;
+            pageInput.classList.add('pagination-input');
+            pageInput.addEventListener('change', (e) => {
+                const pageNumber = parseInt(e.target.value, 10);
+                if (pageNumber >= 1 && pageNumber <= totalPages) {
+                    currentPage = pageNumber;
+                    renderPage(filteredProductos);
+                    renderPagination(filteredProductos.length);
+                }
+            });
+            paginationContainer.appendChild(pageInput);
         }
     }
 
@@ -161,7 +179,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const tallaSeleccionada = filtroTalla ? filtroTalla.value : '';
             const acabadoSeleccionado = filtroAcabado ? filtroAcabado.value : '';
 
-            const productosFiltrados = allProductos.filter(producto => {
+            filteredProductos = allProductos.filter(producto => {
                 let equipoCoincide = true;
                 let precioCoincide = true;
                 let tallaCoincide = true;
@@ -192,8 +210,8 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             currentPage = 1; // Resetear la página al filtrar
-            renderPage(productosFiltrados);
-            renderPagination(productosFiltrados.length);
+            renderPage(filteredProductos);
+            renderPagination(filteredProductos.length);
         }
     }
 
@@ -355,10 +373,12 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             allProductos = data;
+            filteredProductos = allProductos; // Inicializar con todos los productos
+
             // Renderizar solo si estamos en catalogo.html
             if (productosContainer) {
-                renderPage(allProductos);
-                renderPagination(allProductos.length);
+                renderPage(filteredProductos);
+                renderPagination(filteredProductos.length);
             }
             actualizarContadorCarrito();
             mostrarCarritoEnPagina(); // Mostrar el carrito si estamos en carrito.html
