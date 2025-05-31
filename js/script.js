@@ -98,6 +98,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 startPage = Math.max(1, endPage - maxVisiblePages + 1);
             }
 
+            // Add "First" button
+            const firstButton = document.createElement('button');
+            firstButton.classList.add('pagination-boton');
+            firstButton.textContent = '«« Primera';
+            firstButton.addEventListener('click', (e) => {
+                e.preventDefault();
+                currentPage = 1;
+                renderPage(filteredProductos);
+                renderPagination(filteredProductos.length);
+            });
+            paginationContainer.appendChild(firstButton);
+
+            // Add "Previous" button
+            if (startPage > 1) {
+                const prevButton = document.createElement('button');
+                prevButton.classList.add('pagination-boton');
+                prevButton.textContent = '«';
+                prevButton.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    currentPage = Math.max(1, currentPage - 1);
+                    renderPage(filteredProductos);
+                    renderPagination(filteredProductos.length);
+                });
+                paginationContainer.appendChild(prevButton);
+            }
+
             for (let i = startPage; i <= endPage; i++) {
                 const pageButton = document.createElement('button');
                 pageButton.classList.add('pagination-boton');
@@ -114,20 +140,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 paginationContainer.appendChild(pageButton);
             }
 
-            // Add "Previous" button
-            if (startPage > 1) {
-                const prevButton = document.createElement('button');
-                prevButton.classList.add('pagination-boton');
-                prevButton.textContent = '«';
-                prevButton.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    currentPage = Math.max(1, currentPage - 1);
-                    renderPage(filteredProductos);
-                    renderPagination(filteredProductos.length);
-                });
-                paginationContainer.insertBefore(prevButton, paginationContainer.firstChild);
-            }
-
             // Add "Next" button
             if (endPage < totalPages) {
                 const nextButton = document.createElement('button');
@@ -141,6 +153,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
                 paginationContainer.appendChild(nextButton);
             }
+
+            // Add "Last" button
+            const lastButton = document.createElement('button');
+            lastButton.classList.add('pagination-boton');
+            lastButton.textContent = 'Última »»';
+            lastButton.addEventListener('click', (e) => {
+                e.preventDefault();
+                currentPage = totalPages;
+                renderPage(filteredProductos);
+                renderPagination(filteredProductos.length);
+            });
+            paginationContainer.appendChild(lastButton);
 
             // Add input for specific page number
             const pageInput = document.createElement('input');
@@ -177,36 +201,31 @@ document.addEventListener('DOMContentLoaded', () => {
             const equipoSeleccionado = filtroEquipo.value;
             const precioSeleccionado = filtroPrecio.value;
             const tallaSeleccionada = filtroTalla ? filtroTalla.value : '';
-            const acabadoSeleccionado = filtroAcabado ? filtroAcabado.value : '';
 
             filteredProductos = allProductos.filter(producto => {
                 let equipoCoincide = true;
                 let precioCoincide = true;
                 let tallaCoincide = true;
-                let acabadoCoincide = true;
 
+                // Filtro por equipo
                 if (equipoSeleccionado && producto.equipo !== equipoSeleccionado) {
                     equipoCoincide = false;
                 }
 
-                const precioNumerico = parseFloat(producto.precio.replace('.', ''));
+                // Filtro por precio
+                const precioNumerico = parseFloat(producto.precio);
                 if (precioSeleccionado === '90-100' && (precioNumerico < 90000 || precioNumerico > 100000)) {
                     precioCoincide = false;
                 } else if (precioSeleccionado === 'mayor-100' && precioNumerico <= 100000) {
                     precioCoincide = false;
                 }
 
-                // Filtro por talla (adulto o niño)
+                // Filtro por talla
                 if (tallaSeleccionada && (!producto.talla || producto.talla.toLowerCase() !== tallaSeleccionada.toLowerCase())) {
                     tallaCoincide = false;
                 }
 
-                // Filtro por acabado (galleta o bordado)
-                if (acabadoSeleccionado && (!producto.acabado || producto.acabado.toLowerCase() !== acabadoSeleccionado.toLowerCase())) {
-                    acabadoCoincide = false;
-                }
-
-                return equipoCoincide && precioCoincide && tallaCoincide && acabadoCoincide;
+                return equipoCoincide && precioCoincide && tallaCoincide;
             });
 
             currentPage = 1; // Resetear la página al filtrar
@@ -329,41 +348,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Event listener para el botón Finalizar Compra y enviar a WhatsApp
     if (finalizarCompraBtn) {
         finalizarCompraBtn.addEventListener('click', () => {
-            if (carrito.length > 0 && allProductos.length > 0) {
-                let mensaje = "¡Hola! Quiero realizar el siguiente pedido:\n\n";
-                let totalPedido = 0;
-
-                carrito.forEach(item => {
-                    const producto = allProductos.find(p => p.id === item.id);
-                    if (producto) {
-                        const precioUnitario = parseFloat(producto.precio.replace('.', ''));
-                        const precioTotalItem = precioUnitario * item.cantidad;
-                        let tallaInfo = producto.talla ? ` (Talla: ${producto.talla})` : '';
-                        let acabadoInfo = producto.acabado ? ` (Acabado: ${producto.acabado})` : '';
-                        mensaje += `- ${producto.nombre}${tallaInfo}${acabadoInfo} (Cantidad: ${item.cantidad}) - ${formatPrecioCOP(precioUnitario)} c/u - ${formatPrecioCOP(precioTotalItem)} total\n`;
-                        totalPedido += precioTotalItem;
-                    }
-                });
-
-                mensaje += `\nTotal del pedido: ${formatPrecioCOP(totalPedido)}\n\n`;
-                mensaje += "Por favor, contáctenme para coordinar el pago y la entrega.\n";
-
-                // Reemplaza 'NUMERO_DE_TELEFONO' con tu número de teléfono con el código de país (sin el +)
-                const numeroTelefono = '573015044228'; // Ejemplo para Colombia
-                const urlWhatsApp = `https://wa.me/${numeroTelefono}?text=${encodeURIComponent(mensaje)}`;
-
-                window.open(urlWhatsApp, '_blank'); // Abre WhatsApp en una nueva pestaña
-
-                // Opcional: Puedes limpiar el carrito después de redirigir a WhatsApp
-                // localStorage.removeItem('carrito');
-                // carrito = [];
-                // actualizarContadorCarrito();
-                // mostrarCarritoEnPagina();
-
-            } else if (carrito.length === 0) {
-                alert('Tu carrito está vacío. ¡Agrega algunos productos!');
+            if (carrito.length > 0) {
+                window.location.href = 'checkout.html';
             } else {
-                alert('No se pudo generar el pedido. Asegúrate de que los productos se hayan cargado correctamente.');
+                alert('El carrito está vacío');
             }
         });
     }
@@ -373,15 +361,18 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             allProductos = data;
-            filteredProductos = allProductos; // Inicializar con todos los productos
-
-            // Renderizar solo si estamos en catalogo.html
+            // Guardar productos en localStorage para uso en checkout
+            localStorage.setItem('productos', JSON.stringify(allProductos));
+            filteredProductos = [...allProductos];
+            
+            // Renderizar productos según la página actual
             if (productosContainer) {
                 renderPage(filteredProductos);
                 renderPagination(filteredProductos.length);
             }
-            actualizarContadorCarrito();
-            mostrarCarritoEnPagina(); // Mostrar el carrito si estamos en carrito.html
+            
+            // Mostrar carrito si estamos en la página correspondiente
+            mostrarCarritoEnPagina();
 
             // Asegurar que los event listeners de los filtros estén adjuntados después de cargar los productos
             if (filtroEquipo) {
@@ -397,5 +388,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 filtroAcabado.addEventListener('change', filterProductos);
             }
         })
-        .catch(error => console.error('Error al cargar los productos:', error));
+        .catch(error => {
+            console.error('Error cargando productos:', error);
+            if (productosContainer) {
+                productosContainer.innerHTML = '<p>Error al cargar los productos. Por favor, intenta más tarde.</p>';
+            }
+        });
 });

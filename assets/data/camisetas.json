@@ -14,170 +14,141 @@
     "talla": "Adulto",
     "acabado": "",
     "id": "2",
-    "nombre": "Camiseta 22556e79-a1da-42c3-87ea-cf0a2380306b",
+    "nombre": "Camiseta Alternativa del Arsenal 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\22556e79-a1da-42c3-87ea-cf0a2380306b.jpg",
     "descripcion": "Descripción de 22556e79-a1da-42c3-87ea-cf0a2380306b",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Arsenal"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
-    "acabado": "",
+    "acabado": "Galleta",
     "id": "3",
-    "nombre": "Camiseta 2bb4fc75-d5b4-4242-8b35-3db1e8b6a5d8",
+    "nombre": "Camiseta Local del Borussia Dortmund 24-25 Galleta",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\2bb4fc75-d5b4-4242-8b35-3db1e8b6a5d8.jpg",
     "descripcion": "Descripción de 2bb4fc75-d5b4-4242-8b35-3db1e8b6a5d8",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Borussia Dortmund"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "4",
-    "nombre": "Camiseta 3a4aae6d-d041-4922-b48d-d91d27b581cc",
+    "nombre": "Camiseta Local de Alemania 24-25 Galleta",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\3a4aae6d-d041-4922-b48d-d91d27b581cc.jpg",
     "descripcion": "Descripción de 3a4aae6d-d041-4922-b48d-d91d27b581cc",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Alemania"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
-    "acabado": "",
+    "acabado": "Galleta",
     "id": "5",
-    "nombre": "Camiseta 3db8ad22-b689-4696-af8c-9056d300be14",
+    "nombre": "Camiseta Visitante de Manchester City 24-25 Galleta",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\3db8ad22-b689-4696-af8c-9056d300be14.jpg",
     "descripcion": "Descripción de 3db8ad22-b689-4696-af8c-9056d300be14",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Manchester City"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
-    "acabado": "",
+    "acabado": "Galleta",
     "id": "6",
-    "nombre": "Camiseta 4d2fa48b-3d49-4a9c-8231-e2347a79593f",
+    "nombre": "Camiseta Local de Manchester City 24-25 Galleta",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\4d2fa48b-3d49-4a9c-8231-e2347a79593f.jpg",
     "descripcion": "Descripción de 4d2fa48b-3d49-4a9c-8231-e2347a79593f",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Manchester City"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "7",
-    "nombre": "Camiseta 5e307d69-1e26-4a19-8621-6aae4d124ad9",
+    "nombre": "Camiseta Local de Portugal 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\5e307d69-1e26-4a19-8621-6aae4d124ad9.jpg",
     "descripcion": "Descripción de 5e307d69-1e26-4a19-8621-6aae4d124ad9",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Portugal"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
-    "acabado": "",
+    "acabado": "Galleta",
     "id": "8",
-    "nombre": "Camiseta 678a359a-f40b-471d-bcbd-790fde00a158",
+    "nombre": "Camiseta Local de Arsenal 24-25 Galleta",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\678a359a-f40b-471d-bcbd-790fde00a158.jpg",
     "descripcion": "Descripción de 678a359a-f40b-471d-bcbd-790fde00a158",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Arsenal"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "9",
-    "nombre": "Camiseta 6e079e2f-a51f-4a64-af69-45eed05e5de2",
+    "nombre": "Camiseta Local de Juventus FC 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\6e079e2f-a51f-4a64-af69-45eed05e5de2.jpg",
     "descripcion": "Descripción de 6e079e2f-a51f-4a64-af69-45eed05e5de2",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Juventus"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "10",
-    "nombre": "Camiseta 72215ea8-7e55-4b72-a680-46edbb8a62c8",
+    "nombre": "Camiseta Local de Manchester City 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\72215ea8-7e55-4b72-a680-46edbb8a62c8.jpg",
     "descripcion": "Descripción de 72215ea8-7e55-4b72-a680-46edbb8a62c8",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Manchester City"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
-    "acabado": "",
+    "acabado": "Galleta",
     "id": "11",
-    "nombre": "Camiseta 75164dbf-4207-4a9c-9104-ef0512bf85ed",
+    "nombre": "Camiseta local de Portugal 24-25 Galleta",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\75164dbf-4207-4a9c-9104-ef0512bf85ed.jpg",
     "descripcion": "Descripción de 75164dbf-4207-4a9c-9104-ef0512bf85ed",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Portugal"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "12",
-    "nombre": "Camiseta 7c0fd93a-c622-40be-bd53-ca7ebf186285",
+    "nombre": "Camiseta Vistante del Real Madrid 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\7c0fd93a-c622-40be-bd53-ca7ebf186285.jpg",
     "descripcion": "Descripción de 7c0fd93a-c622-40be-bd53-ca7ebf186285",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Real Madrid"
   },
-  {
-    "precio": "90000",
-    "talla": "Adulto",
-    "acabado": "",
-    "id": "13",
-    "nombre": "Camiseta 8cd8e191-fb1b-48cb-8d97-b4468ce6e0fc",
-    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\8cd8e191-fb1b-48cb-8d97-b4468ce6e0fc.jpg",
-    "descripcion": "Descripción de 8cd8e191-fb1b-48cb-8d97-b4468ce6e0fc",
-    "equipo": "Equipo Desconocido"
-  },
-  {
+   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "14",
-    "nombre": "Camiseta 98c7b9df-19c9-41bc-80f6-321d321676f5",
+    "nombre": "Camiseta Local de ACMilan 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\98c7b9df-19c9-41bc-80f6-321d321676f5.jpg",
     "descripcion": "Descripción de 98c7b9df-19c9-41bc-80f6-321d321676f5",
-    "equipo": "Equipo Desconocido"
+    "equipo": "AC Milan"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "15",
-    "nombre": "Camiseta c10b77bd-66e7-4f08-9a52-52db74dca703",
+    "nombre": "Camiseta Local del Manchester United 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\c10b77bd-66e7-4f08-9a52-52db74dca703.jpg",
     "descripcion": "Descripción de c10b77bd-66e7-4f08-9a52-52db74dca703",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Manchester United"
   },
-  {
-    "precio": "90000",
-    "talla": "Adulto",
-    "acabado": "",
-    "id": "16",
-    "nombre": "Camiseta d0da4726-6450-4b46-8650-47755fb1d22c",
-    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\d0da4726-6450-4b46-8650-47755fb1d22c.jpg",
-    "descripcion": "Descripción de d0da4726-6450-4b46-8650-47755fb1d22c",
-    "equipo": "Equipo Desconocido"
-  },
-  {
-    "precio": "90000",
-    "talla": "Adulto",
-    "acabado": "",
-    "id": "17",
-    "nombre": "Camiseta e7ba9aaf-eb5d-4cbe-9d6e-d6f5075d114d",
-    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\e7ba9aaf-eb5d-4cbe-9d6e-d6f5075d114d.jpg",
-    "descripcion": "Descripción de e7ba9aaf-eb5d-4cbe-9d6e-d6f5075d114d",
-    "equipo": "Equipo Desconocido"
-  },
+ 
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "18",
-    "nombre": "Camiseta eb78762e-0de5-4916-89c2-7ebd8ef6e912",
+    "nombre": "Camiseta Visitante del Paris Saint Germain 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\eb78762e-0de5-4916-89c2-7ebd8ef6e912.jpg",
     "descripcion": "Descripción de eb78762e-0de5-4916-89c2-7ebd8ef6e912",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Paris Saint Germain"
   },
   {
     "precio": "90000",
