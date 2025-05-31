@@ -155,60 +155,50 @@
     "talla": "Adulto",
     "acabado": "",
     "id": "19",
-    "nombre": "Camiseta edb80f85-a100-4bf6-a5fa-bc745078262f",
+    "nombre": "Camiseta Vistantedel Bayern Munich 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\edb80f85-a100-4bf6-a5fa-bc745078262f.jpg",
     "descripcion": "Descripción de edb80f85-a100-4bf6-a5fa-bc745078262f",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Bayern Munich"
   },
-  {
+   {
     "precio": "90000",
     "talla": "Adulto",
-    "acabado": "",
-    "id": "20",
-    "nombre": "Camiseta f582d474-3fbe-42c5-bc0d-f72921821d8f",
-    "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\f582d474-3fbe-42c5-bc0d-f72921821d8f.jpg",
-    "descripcion": "Descripción de f582d474-3fbe-42c5-bc0d-f72921821d8f",
-    "equipo": "Equipo Desconocido"
-  },
-  {
-    "precio": "90000",
-    "talla": "Adulto",
-    "acabado": "",
+    "acabado": "Galleta",
     "id": "21",
-    "nombre": "Camiseta f6342a00-108c-47f5-beb6-5258a1914637",
+    "nombre": "Camiseta Visitante del Arsenal 24-25 Galleta",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\f6342a00-108c-47f5-beb6-5258a1914637.jpg",
     "descripcion": "Descripción de f6342a00-108c-47f5-beb6-5258a1914637",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Arsenal"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "22",
-    "nombre": "Camiseta FB_IMG_1742573440482",
+    "nombre": "Camiseta local del Manchester United 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573440482.jpg",
     "descripcion": "Descripción de FB_IMG_1742573440482",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Manchester United"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "23",
-    "nombre": "Camiseta FB_IMG_1742573442530",
+    "nombre": "Camiseta Visitante AC Milan 06-07",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573442530.jpg",
     "descripcion": "Descripción de FB_IMG_1742573442530",
-    "equipo": "Equipo Desconocido"
+    "equipo": "AC Milan"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "24",
-    "nombre": "Camiseta FB_IMG_1742573444421",
+    "nombre": "Camiseta Altrnativa del Manchester United 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573444421.jpg",
     "descripcion": "Descripción de FB_IMG_1742573444421",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Manchester United"
   },
   {
     "precio": "90000",
@@ -225,20 +215,20 @@
     "talla": "Adulto",
     "acabado": "",
     "id": "26",
-    "nombre": "Camiseta FB_IMG_1742573448123",
+    "nombre": "Camiseta de Portero Real Madrid Retro 11-12",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573448123.jpg",
     "descripcion": "Descripción de FB_IMG_1742573448123",
-    "equipo": "Equipo Desconocido"
+    "equipo": "Real Madrid"
   },
   {
     "precio": "90000",
     "talla": "Adulto",
     "acabado": "",
     "id": "27",
-    "nombre": "Camiseta FB_IMG_1742573449974",
+    "nombre": "Camiseta Jingle Jersey de RB Leipzig 24-25",
     "imagen": "Uniformes de fútbol-001/Uniformes de fútbol\\FB_IMG_1742573449974.jpg",
     "descripcion": "Descripción de FB_IMG_1742573449974",
-    "equipo": "Equipo Desconocido"
+    "equipo": "RB Leipzig"
   },
   {
     "precio": "90000",
